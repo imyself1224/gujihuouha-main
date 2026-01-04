@@ -1,0 +1,7945 @@
+[
+  {
+    "text": "立建成侯彭越为梁王，都定陶。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "立",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "未知"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "高祖为亭长，乃以竹皮为冠，令求盗之薛治之，时时冠之，及贵常冠，所谓刘氏冠乃是也。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "未知"
+      },
+      {
+        "id": "E3",
+        "trigger": "令",
+        "event_type": "未知"
+      },
+      {
+        "id": "E4",
+        "trigger": "治",
+        "event_type": "未知"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "辟阳侯归，具言绾反有端矣。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "归",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "言",
+        "event_type": "未知"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "齐军归，楚独追北，使沛公、项羽别攻城阳，屠之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "归",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "使",
+        "event_type": "未知"
+      },
+      {
+        "id": "E3",
+        "trigger": "攻",
+        "event_type": "未知"
+      },
+      {
+        "id": "E4",
+        "trigger": "屠",
+        "event_type": "未知"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "沛公又让不受，曰：仓粟多，非乏，不欲费人。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "让",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "曰",
+        "event_type": "未知"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "汉王数项羽曰：始与项羽俱受命怀王，曰先入定关中者王之，项羽负约，王我於蜀汉，罪一。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "受",
+        "event_type": "未知"
+      },
+      {
+        "id": "E3",
+        "trigger": "曰",
+        "event_type": "未知"
+      },
+      {
+        "id": "E4",
+        "trigger": "入",
+        "event_type": "未知"
+      },
+      {
+        "id": "E5",
+        "trigger": "负",
+        "event_type": "未知"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E5",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "西与秦将杨熊战白马，又战曲遇东，大破之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "战",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "战",
+        "event_type": "未知"
+      },
+      {
+        "id": "E3",
+        "trigger": "大破",
+        "event_type": "未知"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "郎中郑忠乃说止汉王，使高垒深堑，勿与战。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "说",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "使",
+        "event_type": "未知"
+      },
+      {
+        "id": "E3",
+        "trigger": "战",
+        "event_type": "未知"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "田肯贺，因说高祖曰：陛下得韩信，又治秦中。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "贺",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "曰",
+        "event_type": "未知"
+      },
+      {
+        "id": "E3",
+        "trigger": "得",
+        "event_type": "未知"
+      },
+      {
+        "id": "E4",
+        "trigger": "治",
+        "event_type": "未知"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "城降，令出骂者斩之，不骂者原之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "降",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "令",
+        "event_type": "未知"
+      },
+      {
+        "id": "E3",
+        "trigger": "斩",
+        "event_type": "未知"
+      },
+      {
+        "id": "E4",
+        "trigger": "原",
+        "event_type": "未知"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "又与秦军战於蓝田南，益张疑兵旗帜，诸所过毋得掠卤，秦人憙，秦军解，因大破之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "战",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "张",
+        "event_type": "未知"
+      },
+      {
+        "id": "E3",
+        "trigger": "憙",
+        "event_type": "未知"
+      },
+      {
+        "id": "E4",
+        "trigger": "解",
+        "event_type": "未知"
+      },
+      {
+        "id": "E5",
+        "trigger": "大破",
+        "event_type": "未知"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "上曰：豨尝为吾使，甚有信。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E3",
+        "trigger": "使",
+        "event_type": "出使"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "令故吴令郑昌为韩王，距汉兵。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "令",
+        "event_type": "任命"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E3",
+        "trigger": "距",
+        "event_type": "军事行动"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "沛公引兵西，遇彭越昌邑，因与俱攻秦军，战不利。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "引",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E2",
+        "trigger": "遇",
+        "event_type": "相遇"
+      },
+      {
+        "id": "E3",
+        "trigger": "攻",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E4",
+        "trigger": "战",
+        "event_type": "军事行动"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "汉将别击布军洮水南北，皆大破之，追得斩布鄱阳。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "击",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E2",
+        "trigger": "大破",
+        "event_type": "军事结果"
+      },
+      {
+        "id": "E3",
+        "trigger": "追",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E4",
+        "trigger": "斩",
+        "event_type": "军事结果"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "广不听，臧荼攻杀之无终。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "听",
+        "event_type": "态度"
+      },
+      {
+        "id": "E2",
+        "trigger": "攻",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E3",
+        "trigger": "杀",
+        "event_type": "军事结果"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "秦泗川监平将兵围丰，二日，出与战，破之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "围",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E2",
+        "trigger": "出",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E3",
+        "trigger": "战",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E4",
+        "trigger": "破",
+        "event_type": "军事结果"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "还至栗，遇刚武侯，夺其军，可四千馀人，并之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "还",
+        "event_type": "移动"
+      },
+      {
+        "id": "E2",
+        "trigger": "至",
+        "event_type": "移动"
+      },
+      {
+        "id": "E3",
+        "trigger": "遇",
+        "event_type": "相遇"
+      },
+      {
+        "id": "E4",
+        "trigger": "夺",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E5",
+        "trigger": "并",
+        "event_type": "军事行动"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "人曰：妪子何为见杀。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E2",
+        "trigger": "杀",
+        "event_type": "伤害"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "乃以郦食其为广野君，郦商为将，将陈留兵，与偕攻开封，开封未拔。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "任命"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "任命"
+      },
+      {
+        "id": "E3",
+        "trigger": "将",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E4",
+        "trigger": "攻",
+        "event_type": "军事行动"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "乃取汉王父母妻子於沛，置之军中以为质。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "取",
+        "event_type": "获取"
+      },
+      {
+        "id": "E2",
+        "trigger": "置",
+        "event_type": "安置"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "作为"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "且吾所以还军霸上，待诸侯至而定约束耳。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "还",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E2",
+        "trigger": "待",
+        "event_type": "等待"
+      },
+      {
+        "id": "E3",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E4",
+        "trigger": "定",
+        "event_type": "制定"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "军濮阳之东，与秦军战，破之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "军",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E2",
+        "trigger": "战",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E3",
+        "trigger": "破",
+        "event_type": "军事结果"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "汉王之出关至陕，抚关外父老，还，张耳来见，汉王厚遇之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "出",
+        "event_type": "移动"
+      },
+      {
+        "id": "E2",
+        "trigger": "至",
+        "event_type": "移动"
+      },
+      {
+        "id": "E3",
+        "trigger": "抚",
+        "event_type": "安抚"
+      },
+      {
+        "id": "E4",
+        "trigger": "还",
+        "event_type": "移动"
+      },
+      {
+        "id": "E5",
+        "trigger": "见",
+        "event_type": "会见"
+      },
+      {
+        "id": "E6",
+        "trigger": "遇",
+        "event_type": "对待"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E5",
+        "tail": "E6",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "高起、王陵对曰：陛下慢而侮人，项羽仁而爱人。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "对曰",
+        "event_type": "陈述"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "由所杀蛇白帝子，杀者赤帝子，故上赤。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "杀",
+        "event_type": "伤害"
+      },
+      {
+        "id": "E2",
+        "trigger": "杀",
+        "event_type": "伤害"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "乃使张耳北益收兵赵地，使韩信东击齐。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "使",
+        "event_type": "命令"
+      },
+      {
+        "id": "E2",
+        "trigger": "收",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E3",
+        "trigger": "使",
+        "event_type": "命令"
+      },
+      {
+        "id": "E4",
+        "trigger": "击",
+        "event_type": "军事行动"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "汉军方围锺离眜於荥阳东，项羽至，尽走险阻。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "围",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E2",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E3",
+        "trigger": "走",
+        "event_type": "逃跑"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "泗州守壮败於薛，走至戚，沛公左司马得泗川守壮，杀之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "败",
+        "event_type": "军事结果"
+      },
+      {
+        "id": "E2",
+        "trigger": "走",
+        "event_type": "逃跑"
+      },
+      {
+        "id": "E3",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E4",
+        "trigger": "得",
+        "event_type": "捕获"
+      },
+      {
+        "id": "E5",
+        "trigger": "杀",
+        "event_type": "杀害"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "项羽已破走彭越，闻汉王复军成皋，乃复引兵西，拔荥阳，诛周苛、枞公，而虏韩王信，遂围成皋。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "破",
+        "event_type": "军事结果"
+      },
+      {
+        "id": "E2",
+        "trigger": "走",
+        "event_type": "逃跑"
+      },
+      {
+        "id": "E3",
+        "trigger": "闻",
+        "event_type": "感知"
+      },
+      {
+        "id": "E4",
+        "trigger": "引",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E5",
+        "trigger": "拔",
+        "event_type": "军事结果"
+      },
+      {
+        "id": "E6",
+        "trigger": "诛",
+        "event_type": "杀害"
+      },
+      {
+        "id": "E7",
+        "trigger": "虏",
+        "event_type": "俘虏"
+      },
+      {
+        "id": "E8",
+        "trigger": "围",
+        "event_type": "军事行动"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E5",
+        "tail": "E6",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E6",
+        "tail": "E7",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "十二年，十月，高祖已击布军会甀，布走，令别将追之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "击",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E2",
+        "trigger": "走",
+        "event_type": "逃跑"
+      },
+      {
+        "id": "E3",
+        "trigger": "令",
+        "event_type": "命令"
+      },
+      {
+        "id": "E4",
+        "trigger": "追",
+        "event_type": "军事行动"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "十月，燕王臧荼反，攻下代地。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "反",
+        "event_type": "叛乱"
+      },
+      {
+        "id": "E2",
+        "trigger": "攻",
+        "event_type": "军事行动"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "秦王子婴素车白马，系颈以组，封皇帝玺符节，降轵道旁。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "系",
+        "event_type": "行动"
+      },
+      {
+        "id": "E2",
+        "trigger": "封",
+        "event_type": "封存"
+      },
+      {
+        "id": "E3",
+        "trigger": "降",
+        "event_type": "投降"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "更立韩太尉信为韩王。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "立",
+        "event_type": "任命"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "担任"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "当是时，诸侯见楚彊汉败，还皆去汉复为楚。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "见",
+        "event_type": "感知"
+      },
+      {
+        "id": "E2",
+        "trigger": "还",
+        "event_type": "返回"
+      },
+      {
+        "id": "E3",
+        "trigger": "去",
+        "event_type": "离开"
+      },
+      {
+        "id": "E4",
+        "trigger": "为",
+        "event_type": "归属"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "乃遣张良操印绶立韩信为齐王。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "遣",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E2",
+        "trigger": "立",
+        "event_type": "任命"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "担任"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "萧丞相营作未央宫，立东阙、北阙、前殿、武库、太仓。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "作",
+        "event_type": "建造"
+      },
+      {
+        "id": "E2",
+        "trigger": "立",
+        "event_type": "建立"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "令郡国诸侯各立高祖庙，以岁时祠。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "令",
+        "event_type": "命令"
+      },
+      {
+        "id": "E2",
+        "trigger": "立",
+        "event_type": "建立"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "自称使者，晨驰入张耳、韩信壁，而夺之军。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "称",
+        "event_type": "声称"
+      },
+      {
+        "id": "E2",
+        "trigger": "入",
+        "event_type": "进入"
+      },
+      {
+        "id": "E3",
+        "trigger": "夺",
+        "event_type": "夺取"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "韩王昌不听，使韩信击破之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "听",
+        "event_type": "听从"
+      },
+      {
+        "id": "E2",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E3",
+        "trigger": "击",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E4",
+        "trigger": "破",
+        "event_type": "击败"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "燕、赵、齐、魏皆自立为王。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "立",
+        "event_type": "自立"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "成为"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "怀王约入秦无暴掠，项羽烧秦宫室，掘始皇帝冢，私收其财物，罪四。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "约",
+        "event_type": "约定"
+      },
+      {
+        "id": "E2",
+        "trigger": "入",
+        "event_type": "进入"
+      },
+      {
+        "id": "E3",
+        "trigger": "烧",
+        "event_type": "焚烧"
+      },
+      {
+        "id": "E4",
+        "trigger": "掘",
+        "event_type": "挖掘"
+      },
+      {
+        "id": "E5",
+        "trigger": "收",
+        "event_type": "收取"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "遂定魏地，置三郡，曰河东、太原、上党。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "定",
+        "event_type": "平定"
+      },
+      {
+        "id": "E2",
+        "trigger": "置",
+        "event_type": "设置"
+      },
+      {
+        "id": "E3",
+        "trigger": "曰",
+        "event_type": "命名"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "独项羽怨秦破项梁军，奋，原与沛公西入关。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "破",
+        "event_type": "击败"
+      },
+      {
+        "id": "E2",
+        "trigger": "怨",
+        "event_type": "怨恨"
+      },
+      {
+        "id": "E3",
+        "trigger": "入",
+        "event_type": "进入"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "父曰太公，母曰刘媪。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "称呼"
+      },
+      {
+        "id": "E2",
+        "trigger": "曰",
+        "event_type": "称呼"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "汉王听其计，使卢绾、刘贾将卒二万人，骑数百，渡白马津，入楚地，与彭越复击破楚军燕郭西，遂复下梁地十馀城。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "听",
+        "event_type": "采纳"
+      },
+      {
+        "id": "E2",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E3",
+        "trigger": "将",
+        "event_type": "率领"
+      },
+      {
+        "id": "E4",
+        "trigger": "渡",
+        "event_type": "渡过"
+      },
+      {
+        "id": "E5",
+        "trigger": "入",
+        "event_type": "进入"
+      },
+      {
+        "id": "E6",
+        "trigger": "击",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E7",
+        "trigger": "破",
+        "event_type": "击败"
+      },
+      {
+        "id": "E8",
+        "trigger": "下",
+        "event_type": "攻占"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "如此，则楚所备者多，力分，汉得休，复与之战，破楚必矣。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "得",
+        "event_type": "获得"
+      },
+      {
+        "id": "E2",
+        "trigger": "休",
+        "event_type": "休整"
+      },
+      {
+        "id": "E3",
+        "trigger": "战",
+        "event_type": "作战"
+      },
+      {
+        "id": "E4",
+        "trigger": "破",
+        "event_type": "击败"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "高祖还，见宫阙壮甚，怒，谓萧何曰：天下匈匈苦战数岁，成败未可知，是何治宫室过度也。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "还",
+        "event_type": "返回"
+      },
+      {
+        "id": "E2",
+        "trigger": "见",
+        "event_type": "看见"
+      },
+      {
+        "id": "E3",
+        "trigger": "怒",
+        "event_type": "愤怒"
+      },
+      {
+        "id": "E4",
+        "trigger": "谓",
+        "event_type": "说"
+      },
+      {
+        "id": "E5",
+        "trigger": "战",
+        "event_type": "作战"
+      },
+      {
+        "id": "E6",
+        "trigger": "治",
+        "event_type": "修建"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E4",
+        "tail": "E6",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "汉果数挑楚军，楚军不出，使人辱之五六日，大司马怒，度兵汜水。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "挑",
+        "event_type": "挑战"
+      },
+      {
+        "id": "E2",
+        "trigger": "出",
+        "event_type": "出战"
+      },
+      {
+        "id": "E3",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E4",
+        "trigger": "辱",
+        "event_type": "侮辱"
+      },
+      {
+        "id": "E5",
+        "trigger": "怒",
+        "event_type": "愤怒"
+      },
+      {
+        "id": "E6",
+        "trigger": "度",
+        "event_type": "渡过"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "止战好畤，又复败，走废丘。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "战",
+        "event_type": "作战"
+      },
+      {
+        "id": "E2",
+        "trigger": "败",
+        "event_type": "失败"
+      },
+      {
+        "id": "E3",
+        "trigger": "走",
+        "event_type": "逃跑"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "项羽妒贤嫉能，有功者害之，贤者疑之，战胜而不予人功，得地而不予人利，此所以失天下也。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "战",
+        "event_type": "作战"
+      },
+      {
+        "id": "E2",
+        "trigger": "得",
+        "event_type": "获得"
+      },
+      {
+        "id": "E3",
+        "trigger": "失",
+        "event_type": "失去"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "还攻胡阳，遇番君别将梅鋗，与皆，降析、郦。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "还",
+        "event_type": "返回"
+      },
+      {
+        "id": "E2",
+        "trigger": "攻",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E3",
+        "trigger": "遇",
+        "event_type": "遇到"
+      },
+      {
+        "id": "E4",
+        "trigger": "降",
+        "event_type": "降服"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "齐予陈馀兵，击破常山王张耳，张耳亡归汉。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "予",
+        "event_type": "给予"
+      },
+      {
+        "id": "E2",
+        "trigger": "击",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E3",
+        "trigger": "破",
+        "event_type": "击败"
+      },
+      {
+        "id": "E4",
+        "trigger": "亡",
+        "event_type": "逃亡"
+      },
+      {
+        "id": "E5",
+        "trigger": "归",
+        "event_type": "归附"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "项羽已救赵，当还报，而擅劫诸侯兵入关，罪三。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "救",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E2",
+        "trigger": "还",
+        "event_type": "返回"
+      },
+      {
+        "id": "E3",
+        "trigger": "报",
+        "event_type": "报告"
+      },
+      {
+        "id": "E4",
+        "trigger": "劫",
+        "event_type": "劫持"
+      },
+      {
+        "id": "E5",
+        "trigger": "入",
+        "event_type": "进入"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "正月，诸侯及将相相与共请尊汉王为皇帝。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "请",
+        "event_type": "请求"
+      },
+      {
+        "id": "E2",
+        "trigger": "尊",
+        "event_type": "尊奉"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "成为"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "是时九江王布与龙且战，不胜，与随何间行归汉。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "战",
+        "event_type": "作战"
+      },
+      {
+        "id": "E2",
+        "trigger": "胜",
+        "event_type": "胜利"
+      },
+      {
+        "id": "E3",
+        "trigger": "行",
+        "event_type": "行动"
+      },
+      {
+        "id": "E4",
+        "trigger": "归",
+        "event_type": "归附"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "原君王出武关，项羽必引兵南走，王深壁，令荥阳成皋间且得休。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "出",
+        "event_type": "出击"
+      },
+      {
+        "id": "E2",
+        "trigger": "引",
+        "event_type": "率领"
+      },
+      {
+        "id": "E3",
+        "trigger": "走",
+        "event_type": "移动"
+      },
+      {
+        "id": "E4",
+        "trigger": "令",
+        "event_type": "使得"
+      },
+      {
+        "id": "E5",
+        "trigger": "得",
+        "event_type": "获得"
+      },
+      {
+        "id": "E6",
+        "trigger": "休",
+        "event_type": "休整"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E5",
+        "tail": "E6",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "楚军出兵击王离，大破之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "出",
+        "event_type": "出动"
+      },
+      {
+        "id": "E2",
+        "trigger": "击",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E3",
+        "trigger": "破",
+        "event_type": "击败"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "邯迎击汉陈仓，雍兵败，还走。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "迎",
+        "event_type": "迎战"
+      },
+      {
+        "id": "E2",
+        "trigger": "击",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E3",
+        "trigger": "败",
+        "event_type": "失败"
+      },
+      {
+        "id": "E4",
+        "trigger": "还",
+        "event_type": "返回"
+      },
+      {
+        "id": "E5",
+        "trigger": "走",
+        "event_type": "逃跑"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "三分关中，立秦三将：章邯为雍王，都废丘。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "分",
+        "event_type": "分割"
+      },
+      {
+        "id": "E2",
+        "trigger": "立",
+        "event_type": "封立"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "成为"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "乃以宛守为殷侯，封陈恢千户。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "任命"
+      },
+      {
+        "id": "E2",
+        "trigger": "封",
+        "event_type": "封赏"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "高祖为亭长时，常告归之田。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E2",
+        "trigger": "告",
+        "event_type": "告假"
+      },
+      {
+        "id": "E3",
+        "trigger": "归",
+        "event_type": "返回"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "吕后曰：季所居上常有云气，故从往常得季。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E2",
+        "trigger": "居",
+        "event_type": "居住"
+      },
+      {
+        "id": "E3",
+        "trigger": "从",
+        "event_type": "跟随"
+      },
+      {
+        "id": "E4",
+        "trigger": "得",
+        "event_type": "找到"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "项羽闻韩信已举河北兵破齐、赵，且欲击楚，则使龙且、周兰往击之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "闻",
+        "event_type": "听说"
+      },
+      {
+        "id": "E2",
+        "trigger": "举",
+        "event_type": "率领"
+      },
+      {
+        "id": "E3",
+        "trigger": "破",
+        "event_type": "攻破"
+      },
+      {
+        "id": "E4",
+        "trigger": "欲",
+        "event_type": "想要"
+      },
+      {
+        "id": "E5",
+        "trigger": "击",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E6",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E7",
+        "trigger": "往",
+        "event_type": "前往"
+      },
+      {
+        "id": "E8",
+        "trigger": "击",
+        "event_type": "攻击"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E5",
+        "tail": "E6",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E6",
+        "tail": "E7",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "群臣皆曰：高祖起微细，拨乱世反之正，平定天下，为汉太祖，功最高。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E2",
+        "trigger": "起",
+        "event_type": "起家"
+      },
+      {
+        "id": "E3",
+        "trigger": "拨",
+        "event_type": "拨乱"
+      },
+      {
+        "id": "E4",
+        "trigger": "反",
+        "event_type": "恢复"
+      },
+      {
+        "id": "E5",
+        "trigger": "平定",
+        "event_type": "平定"
+      },
+      {
+        "id": "E6",
+        "trigger": "为",
+        "event_type": "成为"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E6",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "赵数请救，怀王乃以宋义为上将军，项羽为次将，范增为末将，北救赵。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "请",
+        "event_type": "请求"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "任命"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "任命"
+      },
+      {
+        "id": "E4",
+        "trigger": "为",
+        "event_type": "任命"
+      },
+      {
+        "id": "E5",
+        "trigger": "救",
+        "event_type": "救援"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "沛公怨雍齿与丰子弟叛之，闻东阳甯君、秦嘉立景驹为假王，在留，乃往从之，欲请兵以攻丰。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "怨",
+        "event_type": "怨恨"
+      },
+      {
+        "id": "E2",
+        "trigger": "叛",
+        "event_type": "背叛"
+      },
+      {
+        "id": "E3",
+        "trigger": "闻",
+        "event_type": "听说"
+      },
+      {
+        "id": "E4",
+        "trigger": "立",
+        "event_type": "立王"
+      },
+      {
+        "id": "E5",
+        "trigger": "为",
+        "event_type": "成为"
+      },
+      {
+        "id": "E6",
+        "trigger": "往",
+        "event_type": "前往"
+      },
+      {
+        "id": "E7",
+        "trigger": "从",
+        "event_type": "投靠"
+      },
+      {
+        "id": "E8",
+        "trigger": "请",
+        "event_type": "请求"
+      },
+      {
+        "id": "E9",
+        "trigger": "攻",
+        "event_type": "攻击"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E5",
+        "tail": "E6",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "迎赵王歇於代，复立为赵王。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "迎",
+        "event_type": "迎接"
+      },
+      {
+        "id": "E2",
+        "trigger": "立",
+        "event_type": "册立"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "担任"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "当是时，赵别将司马卬方欲渡河入关，沛公乃北攻平阴，绝河津。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "渡",
+        "event_type": "渡过"
+      },
+      {
+        "id": "E2",
+        "trigger": "入",
+        "event_type": "进入"
+      },
+      {
+        "id": "E3",
+        "trigger": "攻",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E4",
+        "trigger": "绝",
+        "event_type": "阻断"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "白土曼丘臣、王黄立故赵将赵利为王以反，高祖自往击之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "立",
+        "event_type": "拥立"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "成为"
+      },
+      {
+        "id": "E3",
+        "trigger": "反",
+        "event_type": "反叛"
+      },
+      {
+        "id": "E4",
+        "trigger": "往",
+        "event_type": "前往"
+      },
+      {
+        "id": "E5",
+        "trigger": "击",
+        "event_type": "攻击"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "三年，魏王豹谒归视亲疾，至即绝河津，反为楚。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "谒",
+        "event_type": "请求"
+      },
+      {
+        "id": "E2",
+        "trigger": "归",
+        "event_type": "返回"
+      },
+      {
+        "id": "E3",
+        "trigger": "视",
+        "event_type": "探望"
+      },
+      {
+        "id": "E4",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E5",
+        "trigger": "绝",
+        "event_type": "阻断"
+      },
+      {
+        "id": "E6",
+        "trigger": "反",
+        "event_type": "反叛"
+      },
+      {
+        "id": "E7",
+        "trigger": "为",
+        "event_type": "投靠"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E5",
+        "tail": "E6",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "吕臣为司徒，其父吕青为令尹。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "担任"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "居数月，北攻亢父，救东阿，破秦军。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "攻",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E2",
+        "trigger": "救",
+        "event_type": "救援"
+      },
+      {
+        "id": "E3",
+        "trigger": "破",
+        "event_type": "击败"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "父老乃率子弟共杀沛令，开城门迎刘季，欲以为沛令。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "杀",
+        "event_type": "杀害"
+      },
+      {
+        "id": "E2",
+        "trigger": "开",
+        "event_type": "打开"
+      },
+      {
+        "id": "E3",
+        "trigger": "迎",
+        "event_type": "迎接"
+      },
+      {
+        "id": "E4",
+        "trigger": "为",
+        "event_type": "担任"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "二月，使樊哙、周勃将兵击燕王绾，赦燕吏民与反者。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E2",
+        "trigger": "击",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E3",
+        "trigger": "赦",
+        "event_type": "赦免"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "至邯郸，上喜曰：豨不南据邯郸而阻漳水，吾知其无能为也。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E2",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E3",
+        "trigger": "据",
+        "event_type": "占据"
+      },
+      {
+        "id": "E4",
+        "trigger": "阻",
+        "event_type": "阻隔"
+      },
+      {
+        "id": "E5",
+        "trigger": "为",
+        "event_type": "作为"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "沛令後悔，恐其有变，乃闭城城守，欲诛萧、曹。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "悔",
+        "event_type": "后悔"
+      },
+      {
+        "id": "E2",
+        "trigger": "恐",
+        "event_type": "害怕"
+      },
+      {
+        "id": "E3",
+        "trigger": "闭",
+        "event_type": "关闭"
+      },
+      {
+        "id": "E4",
+        "trigger": "守",
+        "event_type": "防守"
+      },
+      {
+        "id": "E5",
+        "trigger": "诛",
+        "event_type": "诛杀"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "今父老虽为沛令守，诸侯并起，今屠沛。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "为...守"
+      },
+      {
+        "id": "E2",
+        "trigger": "起",
+        "event_type": "起兵"
+      },
+      {
+        "id": "E3",
+        "trigger": "屠",
+        "event_type": "屠城"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "还收兵聚留，引兵攻砀，三日乃取砀。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "还",
+        "event_type": "返回"
+      },
+      {
+        "id": "E2",
+        "trigger": "收",
+        "event_type": "收编"
+      },
+      {
+        "id": "E3",
+        "trigger": "聚",
+        "event_type": "聚集"
+      },
+      {
+        "id": "E4",
+        "trigger": "引",
+        "event_type": "率领"
+      },
+      {
+        "id": "E5",
+        "trigger": "攻",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E6",
+        "trigger": "取",
+        "event_type": "攻取"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "予彭越将军印，令反梁地。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "予",
+        "event_type": "给予"
+      },
+      {
+        "id": "E2",
+        "trigger": "令",
+        "event_type": "命令"
+      },
+      {
+        "id": "E3",
+        "trigger": "反",
+        "event_type": "反叛"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "审食其入言之，乃以丁未发丧，大赦天下。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "入",
+        "event_type": "进入"
+      },
+      {
+        "id": "E2",
+        "trigger": "言",
+        "event_type": "报告"
+      },
+      {
+        "id": "E3",
+        "trigger": "发",
+        "event_type": "发布"
+      },
+      {
+        "id": "E4",
+        "trigger": "赦",
+        "event_type": "赦免"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "高祖曰将军刘贾数有功，以为荆王，王淮东。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "封为"
+      },
+      {
+        "id": "E3",
+        "trigger": "王",
+        "event_type": "统治"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "项羽怨田荣，立齐将田都为齐王。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "怨",
+        "event_type": "怨恨"
+      },
+      {
+        "id": "E2",
+        "trigger": "立",
+        "event_type": "册立"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "成为"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "吕后与审食其谋曰：“诸将与帝为编户民，今北面为臣，此常怏怏，今乃事少主，非尽族是，天下不安。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "谋",
+        "event_type": "谋划"
+      },
+      {
+        "id": "E2",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "作为"
+      },
+      {
+        "id": "E4",
+        "trigger": "为",
+        "event_type": "成为"
+      },
+      {
+        "id": "E5",
+        "trigger": "事",
+        "event_type": "侍奉"
+      },
+      {
+        "id": "E6",
+        "trigger": "安",
+        "event_type": "安定"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E6",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "汉王三让，不得已，曰：“诸君必以为便，便国家。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "让",
+        "event_type": "推让"
+      },
+      {
+        "id": "E2",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "认为"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "是时彭越渡睢水，与项声、薛公战下邳，彭越大破楚军。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "渡",
+        "event_type": "渡过"
+      },
+      {
+        "id": "E2",
+        "trigger": "战",
+        "event_type": "作战"
+      },
+      {
+        "id": "E3",
+        "trigger": "破",
+        "event_type": "击败"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "项羽至睢阳，闻海春侯破，乃引兵还。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E2",
+        "trigger": "闻",
+        "event_type": "听说"
+      },
+      {
+        "id": "E3",
+        "trigger": "破",
+        "event_type": "战败"
+      },
+      {
+        "id": "E4",
+        "trigger": "引",
+        "event_type": "率领"
+      },
+      {
+        "id": "E5",
+        "trigger": "还",
+        "event_type": "返回"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "张良谏曰：“沛公虽欲急入关，秦兵尚众，距险。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "谏",
+        "event_type": "劝谏"
+      },
+      {
+        "id": "E2",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E3",
+        "trigger": "入",
+        "event_type": "进入"
+      },
+      {
+        "id": "E4",
+        "trigger": "距",
+        "event_type": "据守"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E4",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "项羽卒闻汉军之楚歌，以为汉尽得楚地，项羽乃败而走，是以兵大败。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "闻",
+        "event_type": "听到"
+      },
+      {
+        "id": "E2",
+        "trigger": "以为",
+        "event_type": "认为"
+      },
+      {
+        "id": "E3",
+        "trigger": "得",
+        "event_type": "占领"
+      },
+      {
+        "id": "E4",
+        "trigger": "败",
+        "event_type": "战败"
+      },
+      {
+        "id": "E5",
+        "trigger": "走",
+        "event_type": "逃跑"
+      },
+      {
+        "id": "E6",
+        "trigger": "败",
+        "event_type": "失败"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "故临江王驩为项羽叛汉，令卢绾、刘贾围之，不下。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "因为"
+      },
+      {
+        "id": "E2",
+        "trigger": "叛",
+        "event_type": "背叛"
+      },
+      {
+        "id": "E3",
+        "trigger": "令",
+        "event_type": "命令"
+      },
+      {
+        "id": "E4",
+        "trigger": "围",
+        "event_type": "包围"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "亚父是时劝项羽遂下荥阳，及其见疑，乃怒，辞老，原赐骸骨归卒伍，未至彭城而死。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "劝",
+        "event_type": "劝说"
+      },
+      {
+        "id": "E2",
+        "trigger": "疑",
+        "event_type": "怀疑"
+      },
+      {
+        "id": "E3",
+        "trigger": "怒",
+        "event_type": "愤怒"
+      },
+      {
+        "id": "E4",
+        "trigger": "辞",
+        "event_type": "辞官"
+      },
+      {
+        "id": "E5",
+        "trigger": "赐",
+        "event_type": "请求"
+      },
+      {
+        "id": "E6",
+        "trigger": "归",
+        "event_type": "回归"
+      },
+      {
+        "id": "E7",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E8",
+        "trigger": "死",
+        "event_type": "死亡"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "周勃重厚少文，然安刘氏者必勃也，可令为太尉。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "安",
+        "event_type": "安定"
+      },
+      {
+        "id": "E2",
+        "trigger": "令",
+        "event_type": "让"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "担任"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "乃曰：“怀王者，吾家项梁所立耳，非有功伐，何以得主约。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E2",
+        "trigger": "立",
+        "event_type": "拥立"
+      },
+      {
+        "id": "E3",
+        "trigger": "得",
+        "event_type": "获得"
+      },
+      {
+        "id": "E4",
+        "trigger": "主",
+        "event_type": "主持"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E4",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "太公家令说太公曰：“天无二日，土无二王。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "说",
+        "event_type": "劝说"
+      },
+      {
+        "id": "E2",
+        "trigger": "曰",
+        "event_type": "说"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "沛公以为诈，乃用张良计，使郦生、陆贾往说秦将，啗以利，因袭攻武关，破之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "以为",
+        "event_type": "认为"
+      },
+      {
+        "id": "E2",
+        "trigger": "用",
+        "event_type": "采用"
+      },
+      {
+        "id": "E3",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E4",
+        "trigger": "说",
+        "event_type": "游说"
+      },
+      {
+        "id": "E5",
+        "trigger": "啗",
+        "event_type": "利诱"
+      },
+      {
+        "id": "E6",
+        "trigger": "攻",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E7",
+        "trigger": "破",
+        "event_type": "攻破"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "还攻外黄，外黄未下。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "还",
+        "event_type": "返回"
+      },
+      {
+        "id": "E2",
+        "trigger": "攻",
+        "event_type": "攻击"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "与诸将约，先入定关中者王之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "约",
+        "event_type": "约定"
+      },
+      {
+        "id": "E2",
+        "trigger": "入",
+        "event_type": "进入"
+      },
+      {
+        "id": "E3",
+        "trigger": "定",
+        "event_type": "平定"
+      },
+      {
+        "id": "E4",
+        "trigger": "王",
+        "event_type": "封王"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "东至咸阳，引兵围雍王废丘，而遣诸将略定陇西、北地、上郡。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E2",
+        "trigger": "引",
+        "event_type": "率领"
+      },
+      {
+        "id": "E3",
+        "trigger": "围",
+        "event_type": "包围"
+      },
+      {
+        "id": "E4",
+        "trigger": "遣",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E5",
+        "trigger": "略",
+        "event_type": "攻占"
+      },
+      {
+        "id": "E6",
+        "trigger": "定",
+        "event_type": "平定"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E5",
+        "tail": "E6",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "还至定陶，驰入齐王壁，夺其军。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "还",
+        "event_type": "返回"
+      },
+      {
+        "id": "E2",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E3",
+        "trigger": "入",
+        "event_type": "进入"
+      },
+      {
+        "id": "E4",
+        "trigger": "夺",
+        "event_type": "夺取"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "败後乃独得孝惠，六月，立为太子，大赦罪人。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "得",
+        "event_type": "获得"
+      },
+      {
+        "id": "E2",
+        "trigger": "立",
+        "event_type": "册立"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "成为"
+      },
+      {
+        "id": "E4",
+        "trigger": "赦",
+        "event_type": "赦免"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "诸故秦苑囿园池，皆令人得田之，正月，虏雍王弟章平。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "令",
+        "event_type": "允许"
+      },
+      {
+        "id": "E2",
+        "trigger": "得",
+        "event_type": "能够"
+      },
+      {
+        "id": "E3",
+        "trigger": "田",
+        "event_type": "耕种"
+      },
+      {
+        "id": "E4",
+        "trigger": "虏",
+        "event_type": "俘虏"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "掾、主吏萧何、曹参乃曰：“君为秦吏，今欲背之，率沛子弟，恐不听。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E3",
+        "trigger": "背",
+        "event_type": "背叛"
+      },
+      {
+        "id": "E4",
+        "trigger": "率",
+        "event_type": "率领"
+      },
+      {
+        "id": "E5",
+        "trigger": "听",
+        "event_type": "听从"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E5",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "遂不使治病，赐金五十斤罢之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "使",
+        "event_type": "让"
+      },
+      {
+        "id": "E2",
+        "trigger": "治",
+        "event_type": "治疗"
+      },
+      {
+        "id": "E3",
+        "trigger": "赐",
+        "event_type": "赏赐"
+      },
+      {
+        "id": "E4",
+        "trigger": "罢",
+        "event_type": "罢免"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "至南郑，诸将及士卒多道亡归，士卒皆歌思东归。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E2",
+        "trigger": "亡",
+        "event_type": "逃亡"
+      },
+      {
+        "id": "E3",
+        "trigger": "归",
+        "event_type": "归去"
+      },
+      {
+        "id": "E4",
+        "trigger": "歌",
+        "event_type": "歌唱"
+      },
+      {
+        "id": "E5",
+        "trigger": "思",
+        "event_type": "思念"
+      },
+      {
+        "id": "E6",
+        "trigger": "归",
+        "event_type": "归去"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "沛公以樊哙、张良故，得解归。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "得",
+        "event_type": "得以"
+      },
+      {
+        "id": "E2",
+        "trigger": "解",
+        "event_type": "解脱"
+      },
+      {
+        "id": "E3",
+        "trigger": "归",
+        "event_type": "返回"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "韩信已破齐，使人言曰：“齐边楚，权轻，不为假王，恐不能安齐。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "破",
+        "event_type": "攻破"
+      },
+      {
+        "id": "E2",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E3",
+        "trigger": "言",
+        "event_type": "传话"
+      },
+      {
+        "id": "E4",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E5",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E6",
+        "trigger": "安",
+        "event_type": "安定"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E4",
+        "tail": "E6",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "自度比至皆亡之，到丰西泽中，止饮，夜乃解纵所送徒。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "度",
+        "event_type": "估计"
+      },
+      {
+        "id": "E2",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E3",
+        "trigger": "亡",
+        "event_type": "逃亡"
+      },
+      {
+        "id": "E4",
+        "trigger": "到",
+        "event_type": "到达"
+      },
+      {
+        "id": "E5",
+        "trigger": "止",
+        "event_type": "停止"
+      },
+      {
+        "id": "E6",
+        "trigger": "饮",
+        "event_type": "饮酒"
+      },
+      {
+        "id": "E7",
+        "trigger": "解",
+        "event_type": "释放"
+      },
+      {
+        "id": "E8",
+        "trigger": "纵",
+        "event_type": "放走"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E5",
+        "tail": "E6",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E7",
+        "tail": "E8",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "高祖为亭长，素易诸吏，乃绐为谒曰“贺钱万”，实不持一钱。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E2",
+        "trigger": "易",
+        "event_type": "轻视"
+      },
+      {
+        "id": "E3",
+        "trigger": "绐",
+        "event_type": "欺骗"
+      },
+      {
+        "id": "E4",
+        "trigger": "为",
+        "event_type": "写"
+      },
+      {
+        "id": "E5",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E6",
+        "trigger": "持",
+        "event_type": "携带"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "卒不许项羽，而遣沛公西略地，收陈王、项梁散卒。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "许",
+        "event_type": "答应"
+      },
+      {
+        "id": "E2",
+        "trigger": "遣",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E3",
+        "trigger": "略",
+        "event_type": "攻占"
+      },
+      {
+        "id": "E4",
+        "trigger": "收",
+        "event_type": "收编"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "高祖欲长都雒阳，齐人刘敬说，乃留侯劝上入都关中，高祖是日驾，入都关中。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "欲",
+        "event_type": "想要"
+      },
+      {
+        "id": "E2",
+        "trigger": "都",
+        "event_type": "建都"
+      },
+      {
+        "id": "E3",
+        "trigger": "说",
+        "event_type": "劝说"
+      },
+      {
+        "id": "E4",
+        "trigger": "劝",
+        "event_type": "劝谏"
+      },
+      {
+        "id": "E5",
+        "trigger": "入",
+        "event_type": "进入"
+      },
+      {
+        "id": "E6",
+        "trigger": "都",
+        "event_type": "建都"
+      },
+      {
+        "id": "E7",
+        "trigger": "驾",
+        "event_type": "起驾"
+      },
+      {
+        "id": "E8",
+        "trigger": "入",
+        "event_type": "进入"
+      },
+      {
+        "id": "E9",
+        "trigger": "都",
+        "event_type": "建都"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "汉王稍收士卒，与诸将及关中卒益出，是以兵大振荥阳，破楚京、索间。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "收",
+        "event_type": "收编"
+      },
+      {
+        "id": "E2",
+        "trigger": "出",
+        "event_type": "出击"
+      },
+      {
+        "id": "E3",
+        "trigger": "振",
+        "event_type": "振作"
+      },
+      {
+        "id": "E4",
+        "trigger": "破",
+        "event_type": "击败"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "周巿使人谓雍齿曰：“丰，故梁徙也。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E2",
+        "trigger": "谓",
+        "event_type": "对...说"
+      },
+      {
+        "id": "E3",
+        "trigger": "曰",
+        "event_type": "说"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "若汉挑战，慎勿与战，无令得东而已。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "挑",
+        "event_type": "挑战"
+      },
+      {
+        "id": "E2",
+        "trigger": "战",
+        "event_type": "作战"
+      },
+      {
+        "id": "E3",
+        "trigger": "令",
+        "event_type": "让"
+      },
+      {
+        "id": "E4",
+        "trigger": "得",
+        "event_type": "能够"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "上曰：“豨尝为吾使，甚有信。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E3",
+        "trigger": "使",
+        "event_type": "出使"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "引水灌废丘，废丘降，章邯自杀。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "灌",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E2",
+        "trigger": "降",
+        "event_type": "投降"
+      },
+      {
+        "id": "E3",
+        "trigger": "自杀",
+        "event_type": "死亡"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "令相两子，见孝惠，曰：夫人所以贵者，乃此男也。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "令",
+        "event_type": "命令"
+      },
+      {
+        "id": "E2",
+        "trigger": "相",
+        "event_type": "相面"
+      },
+      {
+        "id": "E3",
+        "trigger": "见",
+        "event_type": "见到"
+      },
+      {
+        "id": "E4",
+        "trigger": "曰",
+        "event_type": "说"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "汉王以故得劫五诸侯兵，遂入彭城。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "得",
+        "event_type": "获得"
+      },
+      {
+        "id": "E2",
+        "trigger": "劫",
+        "event_type": "劫持"
+      },
+      {
+        "id": "E3",
+        "trigger": "入",
+        "event_type": "进入"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "至马邑，马邑不下，即攻残之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E2",
+        "trigger": "下",
+        "event_type": "投降"
+      },
+      {
+        "id": "E3",
+        "trigger": "攻",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E4",
+        "trigger": "残",
+        "event_type": "摧毁"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "沛公还军亢父，至方与，未战。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "还",
+        "event_type": "返回"
+      },
+      {
+        "id": "E2",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E3",
+        "trigger": "战",
+        "event_type": "作战"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "高祖至雒阳，举通侯籍召之，而利几恐，故反。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E2",
+        "trigger": "举",
+        "event_type": "列举"
+      },
+      {
+        "id": "E3",
+        "trigger": "召",
+        "event_type": "召见"
+      },
+      {
+        "id": "E4",
+        "trigger": "恐",
+        "event_type": "恐惧"
+      },
+      {
+        "id": "E5",
+        "trigger": "反",
+        "event_type": "反叛"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "己巳，立太子，至太上皇庙。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "立",
+        "event_type": "册立"
+      },
+      {
+        "id": "E2",
+        "trigger": "至",
+        "event_type": "到达"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "田荣败，走平原，平原民杀之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "败",
+        "event_type": "战败"
+      },
+      {
+        "id": "E2",
+        "trigger": "走",
+        "event_type": "逃跑"
+      },
+      {
+        "id": "E3",
+        "trigger": "杀",
+        "event_type": "杀害"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "数月而降，杀之雒阳。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "降",
+        "event_type": "投降"
+      },
+      {
+        "id": "E2",
+        "trigger": "杀",
+        "event_type": "杀害"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "诸将以万人若以一郡降者，封万户。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "降",
+        "event_type": "投降"
+      },
+      {
+        "id": "E2",
+        "trigger": "封",
+        "event_type": "封赏"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "南，战雒阳东，军不利，还至阳城，收军中马骑，与南阳守齮战犨东，破之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "战",
+        "event_type": "作战"
+      },
+      {
+        "id": "E2",
+        "trigger": "还",
+        "event_type": "返回"
+      },
+      {
+        "id": "E3",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E4",
+        "trigger": "收",
+        "event_type": "收编"
+      },
+      {
+        "id": "E5",
+        "trigger": "战",
+        "event_type": "作战"
+      },
+      {
+        "id": "E6",
+        "trigger": "破",
+        "event_type": "击败"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "汉王出行军，病甚，因驰入成皋。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "出",
+        "event_type": "出行"
+      },
+      {
+        "id": "E2",
+        "trigger": "病",
+        "event_type": "生病"
+      },
+      {
+        "id": "E3",
+        "trigger": "驰",
+        "event_type": "疾驰"
+      },
+      {
+        "id": "E4",
+        "trigger": "入",
+        "event_type": "进入"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "众莫敢为，乃立季为沛公。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E2",
+        "trigger": "立",
+        "event_type": "拥立"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "成为"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "杨熊走之荥阳，二世使使者斩以徇。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "走",
+        "event_type": "逃跑"
+      },
+      {
+        "id": "E2",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E3",
+        "trigger": "斩",
+        "event_type": "斩杀"
+      },
+      {
+        "id": "E4",
+        "trigger": "徇",
+        "event_type": "示众"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "高祖曰：丰吾所生长，极不忘耳，吾特为其以雍齿故反我为魏。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "因为"
+      },
+      {
+        "id": "E3",
+        "trigger": "反",
+        "event_type": "背叛"
+      },
+      {
+        "id": "E4",
+        "trigger": "为",
+        "event_type": "投靠"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "周巿使人谓雍齿曰：丰，故梁徙也。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E2",
+        "trigger": "谓",
+        "event_type": "对...说"
+      },
+      {
+        "id": "E3",
+        "trigger": "曰",
+        "event_type": "说"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "其秋，利几反，高祖自将兵击之，利几走。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "反",
+        "event_type": "反叛"
+      },
+      {
+        "id": "E2",
+        "trigger": "将",
+        "event_type": "率领"
+      },
+      {
+        "id": "E3",
+        "trigger": "击",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E4",
+        "trigger": "走",
+        "event_type": "逃跑"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "高祖为亭长，素易诸吏，乃绐为谒曰贺钱万，实不持一钱。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E2",
+        "trigger": "易",
+        "event_type": "轻视"
+      },
+      {
+        "id": "E3",
+        "trigger": "绐",
+        "event_type": "欺骗"
+      },
+      {
+        "id": "E4",
+        "trigger": "为",
+        "event_type": "写"
+      },
+      {
+        "id": "E5",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E6",
+        "trigger": "持",
+        "event_type": "携带"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "病愈，西入关，至栎阳，存问父老，置酒，枭故塞王欣头栎阳市。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "愈",
+        "event_type": "痊愈"
+      },
+      {
+        "id": "E2",
+        "trigger": "入",
+        "event_type": "进入"
+      },
+      {
+        "id": "E3",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E4",
+        "trigger": "存问",
+        "event_type": "慰问"
+      },
+      {
+        "id": "E5",
+        "trigger": "置",
+        "event_type": "设置"
+      },
+      {
+        "id": "E6",
+        "trigger": "枭",
+        "event_type": "悬首"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E5",
+        "tail": "E6",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "以沛公为砀郡长，封为武安侯，将砀郡兵。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "任命"
+      },
+      {
+        "id": "E2",
+        "trigger": "封",
+        "event_type": "封赏"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "成为"
+      },
+      {
+        "id": "E4",
+        "trigger": "将",
+        "event_type": "率领"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "章邯已破项梁军，则以为楚地兵不足忧，乃渡河，北击赵，大破之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "破",
+        "event_type": "击败"
+      },
+      {
+        "id": "E2",
+        "trigger": "以为",
+        "event_type": "认为"
+      },
+      {
+        "id": "E3",
+        "trigger": "渡",
+        "event_type": "渡过"
+      },
+      {
+        "id": "E4",
+        "trigger": "击",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E5",
+        "trigger": "大破",
+        "event_type": "大败"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "为足下计，莫若约降，封其守，因使止守，引其甲卒与之西。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "为...考虑"
+      },
+      {
+        "id": "E2",
+        "trigger": "约",
+        "event_type": "约定"
+      },
+      {
+        "id": "E3",
+        "trigger": "降",
+        "event_type": "投降"
+      },
+      {
+        "id": "E4",
+        "trigger": "封",
+        "event_type": "封赏"
+      },
+      {
+        "id": "E5",
+        "trigger": "使",
+        "event_type": "让"
+      },
+      {
+        "id": "E6",
+        "trigger": "止",
+        "event_type": "停止"
+      },
+      {
+        "id": "E7",
+        "trigger": "守",
+        "event_type": "防守"
+      },
+      {
+        "id": "E8",
+        "trigger": "引",
+        "event_type": "率领"
+      },
+      {
+        "id": "E9",
+        "trigger": "西",
+        "event_type": "西进"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E5",
+        "tail": "E6",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E6",
+        "tail": "E7",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E7",
+        "tail": "E8",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "乃曰：怀王者，吾家项梁所立耳，非有功伐，何以得主约。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E2",
+        "trigger": "立",
+        "event_type": "拥立"
+      },
+      {
+        "id": "E3",
+        "trigger": "得",
+        "event_type": "获得"
+      },
+      {
+        "id": "E4",
+        "trigger": "主",
+        "event_type": "主持"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "令太子守栎阳，诸侯子在关中者皆集栎阳为卫。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "令",
+        "event_type": "命令"
+      },
+      {
+        "id": "E2",
+        "trigger": "守",
+        "event_type": "守卫"
+      },
+      {
+        "id": "E3",
+        "trigger": "集",
+        "event_type": "聚集"
+      },
+      {
+        "id": "E4",
+        "trigger": "为",
+        "event_type": "作为"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "高祖还归，过沛，留。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "还",
+        "event_type": "返回"
+      },
+      {
+        "id": "E2",
+        "trigger": "归",
+        "event_type": "归来"
+      },
+      {
+        "id": "E3",
+        "trigger": "过",
+        "event_type": "经过"
+      },
+      {
+        "id": "E4",
+        "trigger": "留",
+        "event_type": "停留"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "又彊杀秦降王子婴，罪五。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "杀",
+        "event_type": "杀害"
+      },
+      {
+        "id": "E2",
+        "trigger": "降",
+        "event_type": "投降"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "项氏主命，负约弃功。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "主",
+        "event_type": "主持"
+      },
+      {
+        "id": "E2",
+        "trigger": "负",
+        "event_type": "违背"
+      },
+      {
+        "id": "E3",
+        "trigger": "约",
+        "event_type": "约定"
+      },
+      {
+        "id": "E4",
+        "trigger": "弃",
+        "event_type": "抛弃"
+      },
+      {
+        "id": "E5",
+        "trigger": "功",
+        "event_type": "功劳"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "然陛下使人攻城略地，所降下者因以予之，与天下同利也。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E2",
+        "trigger": "攻",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E3",
+        "trigger": "略",
+        "event_type": "夺取"
+      },
+      {
+        "id": "E4",
+        "trigger": "降",
+        "event_type": "投降"
+      },
+      {
+        "id": "E5",
+        "trigger": "予",
+        "event_type": "给予"
+      },
+      {
+        "id": "E6",
+        "trigger": "同",
+        "event_type": "共享"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "发使者告诸侯曰：天下共立义帝，北面事之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "发",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E2",
+        "trigger": "告",
+        "event_type": "告知"
+      },
+      {
+        "id": "E3",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E4",
+        "trigger": "立",
+        "event_type": "拥立"
+      },
+      {
+        "id": "E5",
+        "trigger": "事",
+        "event_type": "侍奉"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "妪曰：吾子，白帝子也，化为蛇，当道，今为赤帝子斩之，故哭。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E2",
+        "trigger": "化",
+        "event_type": "变化"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "成为"
+      },
+      {
+        "id": "E4",
+        "trigger": "斩",
+        "event_type": "斩杀"
+      },
+      {
+        "id": "E5",
+        "trigger": "哭",
+        "event_type": "哭泣"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "秋七月，淮南王黥布反，东并荆王刘贾地，北渡淮，楚王交走入薛。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "反",
+        "event_type": "反叛"
+      },
+      {
+        "id": "E2",
+        "trigger": "并",
+        "event_type": "吞并"
+      },
+      {
+        "id": "E3",
+        "trigger": "渡",
+        "event_type": "渡过"
+      },
+      {
+        "id": "E4",
+        "trigger": "走",
+        "event_type": "逃跑"
+      },
+      {
+        "id": "E5",
+        "trigger": "入",
+        "event_type": "进入"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "於是沛公乃夜引兵从他道还，更旗帜，黎明，围宛城三匝。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "引",
+        "event_type": "率领"
+      },
+      {
+        "id": "E2",
+        "trigger": "还",
+        "event_type": "返回"
+      },
+      {
+        "id": "E3",
+        "trigger": "更",
+        "event_type": "更换"
+      },
+      {
+        "id": "E4",
+        "trigger": "围",
+        "event_type": "包围"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "项羽怨怀王不肯令与沛公俱西入关，而北救赵，後天下约。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "怨",
+        "event_type": "怨恨"
+      },
+      {
+        "id": "E2",
+        "trigger": "令",
+        "event_type": "命令"
+      },
+      {
+        "id": "E3",
+        "trigger": "入",
+        "event_type": "进入"
+      },
+      {
+        "id": "E4",
+        "trigger": "救",
+        "event_type": "救援"
+      },
+      {
+        "id": "E5",
+        "trigger": "约",
+        "event_type": "约定"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "负约，更立沛公为汉王，王巴、蜀、汉中，都南郑。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "负",
+        "event_type": "违背"
+      },
+      {
+        "id": "E2",
+        "trigger": "立",
+        "event_type": "册立"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "成为"
+      },
+      {
+        "id": "E4",
+        "trigger": "王",
+        "event_type": "统治"
+      },
+      {
+        "id": "E5",
+        "trigger": "都",
+        "event_type": "建都"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "及壮，试为吏，为泗水亭长，廷中吏无所不狎侮。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E3",
+        "trigger": "狎侮",
+        "event_type": "戏弄"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "楚令萧公角击彭越，彭越大破之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "令",
+        "event_type": "命令"
+      },
+      {
+        "id": "E2",
+        "trigger": "击",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E3",
+        "trigger": "大破",
+        "event_type": "大败"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "吾与诸侯约，先入关者王之，吾当王关中。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "约",
+        "event_type": "约定"
+      },
+      {
+        "id": "E2",
+        "trigger": "入",
+        "event_type": "进入"
+      },
+      {
+        "id": "E3",
+        "trigger": "王",
+        "event_type": "封王"
+      },
+      {
+        "id": "E4",
+        "trigger": "王",
+        "event_type": "统治"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "留侯曰：不如因而立之，使自为守。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E2",
+        "trigger": "立",
+        "event_type": "拥立"
+      },
+      {
+        "id": "E3",
+        "trigger": "使",
+        "event_type": "让"
+      },
+      {
+        "id": "E4",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E5",
+        "trigger": "守",
+        "event_type": "守卫"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "及刘贾入楚地，围寿春，汉王败固陵，乃使使者召大司马周殷举九江兵而迎武王，行屠城父，随刘贾、齐梁诸侯皆大会垓下。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "入",
+        "event_type": "进入"
+      },
+      {
+        "id": "E2",
+        "trigger": "围",
+        "event_type": "包围"
+      },
+      {
+        "id": "E3",
+        "trigger": "败",
+        "event_type": "战败"
+      },
+      {
+        "id": "E4",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E5",
+        "trigger": "召",
+        "event_type": "召见"
+      },
+      {
+        "id": "E6",
+        "trigger": "举",
+        "event_type": "率领"
+      },
+      {
+        "id": "E7",
+        "trigger": "迎",
+        "event_type": "迎接"
+      },
+      {
+        "id": "E8",
+        "trigger": "屠",
+        "event_type": "屠城"
+      },
+      {
+        "id": "E9",
+        "trigger": "会",
+        "event_type": "会师"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E7",
+        "tail": "E8",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "今闻章邯降项羽，项羽乃号为雍王，王关中。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "闻",
+        "event_type": "听说"
+      },
+      {
+        "id": "E2",
+        "trigger": "降",
+        "event_type": "投降"
+      },
+      {
+        "id": "E3",
+        "trigger": "号",
+        "event_type": "封号"
+      },
+      {
+        "id": "E4",
+        "trigger": "为",
+        "event_type": "成为"
+      },
+      {
+        "id": "E5",
+        "trigger": "王",
+        "event_type": "统治"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "兵击燕王绾，赦燕吏民与反者。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "击",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E2",
+        "trigger": "赦",
+        "event_type": "赦免"
+      },
+      {
+        "id": "E3",
+        "trigger": "反",
+        "event_type": "反叛"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "田荣怒，因自立为齐王，杀田都而反楚。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "怒",
+        "event_type": "愤怒"
+      },
+      {
+        "id": "E2",
+        "trigger": "立",
+        "event_type": "自立"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "成为"
+      },
+      {
+        "id": "E4",
+        "trigger": "杀",
+        "event_type": "杀害"
+      },
+      {
+        "id": "E5",
+        "trigger": "反",
+        "event_type": "反叛"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "韩信与战，骑将灌婴击，大破楚军，杀龙且。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "战",
+        "event_type": "作战"
+      },
+      {
+        "id": "E2",
+        "trigger": "击",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E3",
+        "trigger": "大破",
+        "event_type": "大败"
+      },
+      {
+        "id": "E4",
+        "trigger": "杀",
+        "event_type": "杀害"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "秦二世元年秋，陈胜等起蕲，至陈而王，号为张楚。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "起",
+        "event_type": "起兵"
+      },
+      {
+        "id": "E2",
+        "trigger": "至",
+        "event_type": "到达"
+      },
+      {
+        "id": "E3",
+        "trigger": "王",
+        "event_type": "称王"
+      },
+      {
+        "id": "E4",
+        "trigger": "为",
+        "event_type": "称为"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "令将军薛欧、王西出武关，因王陵兵南阳，以迎太公、吕后於沛。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "令",
+        "event_type": "命令"
+      },
+      {
+        "id": "E2",
+        "trigger": "出",
+        "event_type": "出击"
+      },
+      {
+        "id": "E3",
+        "trigger": "因",
+        "event_type": "借助"
+      },
+      {
+        "id": "E4",
+        "trigger": "迎",
+        "event_type": "迎接"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "心善家令言，赐金五百斤。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "善",
+        "event_type": "赞赏"
+      },
+      {
+        "id": "E2",
+        "trigger": "赐",
+        "event_type": "赏赐"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "宛，大郡之都也，连城数十，人民众，积蓄多，吏人自以为降必死，故皆坚守乘城。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "以",
+        "event_type": "认为"
+      },
+      {
+        "id": "E2",
+        "trigger": "降",
+        "event_type": "投降"
+      },
+      {
+        "id": "E3",
+        "trigger": "死",
+        "event_type": "死亡"
+      },
+      {
+        "id": "E4",
+        "trigger": "坚",
+        "event_type": "坚守"
+      },
+      {
+        "id": "E5",
+        "trigger": "守",
+        "event_type": "防守"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "酒酣，高祖击筑，自为歌诗曰：大风起兮云飞扬，威加海内兮归故乡，安得猛士兮守四方。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "击",
+        "event_type": "演奏"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "创作"
+      },
+      {
+        "id": "E3",
+        "trigger": "曰",
+        "event_type": "吟唱"
+      },
+      {
+        "id": "E4",
+        "trigger": "起",
+        "event_type": "兴起"
+      },
+      {
+        "id": "E5",
+        "trigger": "归",
+        "event_type": "回归"
+      },
+      {
+        "id": "E6",
+        "trigger": "得",
+        "event_type": "获得"
+      },
+      {
+        "id": "E7",
+        "trigger": "守",
+        "event_type": "守卫"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E6",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E7",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "立子恢为梁王，子友为淮阳王。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "立",
+        "event_type": "册立"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "成为"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "成为"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "病甚，吕后迎良医，医入见，高祖问医，医曰：病可治。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "迎",
+        "event_type": "迎接"
+      },
+      {
+        "id": "E2",
+        "trigger": "入",
+        "event_type": "进入"
+      },
+      {
+        "id": "E3",
+        "trigger": "见",
+        "event_type": "觐见"
+      },
+      {
+        "id": "E4",
+        "trigger": "问",
+        "event_type": "询问"
+      },
+      {
+        "id": "E5",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E6",
+        "trigger": "治",
+        "event_type": "治疗"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E5",
+        "tail": "E6",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "欲止宫休舍，樊哙、张良谏，乃封秦重宝财物府库，还军霸上。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "欲",
+        "event_type": "想要"
+      },
+      {
+        "id": "E2",
+        "trigger": "止",
+        "event_type": "停留"
+      },
+      {
+        "id": "E3",
+        "trigger": "谏",
+        "event_type": "劝谏"
+      },
+      {
+        "id": "E4",
+        "trigger": "封",
+        "event_type": "封存"
+      },
+      {
+        "id": "E5",
+        "trigger": "还",
+        "event_type": "返回"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "代王刘仲弃国亡，自归雒阳，废以为合阳侯。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "弃",
+        "event_type": "放弃"
+      },
+      {
+        "id": "E2",
+        "trigger": "亡",
+        "event_type": "逃亡"
+      },
+      {
+        "id": "E3",
+        "trigger": "归",
+        "event_type": "归附"
+      },
+      {
+        "id": "E4",
+        "trigger": "废",
+        "event_type": "废黜"
+      },
+      {
+        "id": "E5",
+        "trigger": "为",
+        "event_type": "成为"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "郦生不拜，长揖，曰：足下必欲诛无道秦，不宜踞见长者。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "拜",
+        "event_type": "跪拜"
+      },
+      {
+        "id": "E2",
+        "trigger": "揖",
+        "event_type": "作揖"
+      },
+      {
+        "id": "E3",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E4",
+        "trigger": "诛",
+        "event_type": "诛杀"
+      },
+      {
+        "id": "E5",
+        "trigger": "见",
+        "event_type": "接见"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E5",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "萧何为主吏，主进，令诸大夫曰：进不满千钱，坐之堂下。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E2",
+        "trigger": "主",
+        "event_type": "主管"
+      },
+      {
+        "id": "E3",
+        "trigger": "令",
+        "event_type": "命令"
+      },
+      {
+        "id": "E4",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E5",
+        "trigger": "进",
+        "event_type": "进献"
+      },
+      {
+        "id": "E6",
+        "trigger": "坐",
+        "event_type": "就坐"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E4",
+        "tail": "E6",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "汉王之国，项王使卒三万人从，楚与诸侯之慕从者数万人，从杜南入蚀中。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "之",
+        "event_type": "前往"
+      },
+      {
+        "id": "E2",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E3",
+        "trigger": "从",
+        "event_type": "跟随"
+      },
+      {
+        "id": "E4",
+        "trigger": "从",
+        "event_type": "跟随"
+      },
+      {
+        "id": "E5",
+        "trigger": "入",
+        "event_type": "进入"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "於是高祖嫚骂之曰：吾以布衣提三尺剑取天下，此非天命乎。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "骂",
+        "event_type": "责骂"
+      },
+      {
+        "id": "E2",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E3",
+        "trigger": "提",
+        "event_type": "持剑"
+      },
+      {
+        "id": "E4",
+        "trigger": "取",
+        "event_type": "夺取"
+      },
+      {
+        "id": "E5",
+        "trigger": "命",
+        "event_type": "天命"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "闻沛公已定关中，大怒，使黥布等攻破函谷关。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "闻",
+        "event_type": "听说"
+      },
+      {
+        "id": "E2",
+        "trigger": "定",
+        "event_type": "平定"
+      },
+      {
+        "id": "E3",
+        "trigger": "怒",
+        "event_type": "愤怒"
+      },
+      {
+        "id": "E4",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E5",
+        "trigger": "攻",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E6",
+        "trigger": "破",
+        "event_type": "攻破"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "刘季曰：天下方扰，诸侯并起，今置将不善，壹败涂地。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E2",
+        "trigger": "扰",
+        "event_type": "动乱"
+      },
+      {
+        "id": "E3",
+        "trigger": "起",
+        "event_type": "起兵"
+      },
+      {
+        "id": "E4",
+        "trigger": "置",
+        "event_type": "任命"
+      },
+      {
+        "id": "E5",
+        "trigger": "败",
+        "event_type": "失败"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "及赵高已杀二世，使人来，欲约分王关中。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "杀",
+        "event_type": "杀害"
+      },
+      {
+        "id": "E2",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E3",
+        "trigger": "约",
+        "event_type": "约定"
+      },
+      {
+        "id": "E4",
+        "trigger": "分",
+        "event_type": "分割"
+      },
+      {
+        "id": "E5",
+        "trigger": "王",
+        "event_type": "统治"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "韩信已破齐，使人言曰：齐边楚，权轻，不为假王，恐不能安齐。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "破",
+        "event_type": "攻破"
+      },
+      {
+        "id": "E2",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E3",
+        "trigger": "言",
+        "event_type": "传话"
+      },
+      {
+        "id": "E4",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E5",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E6",
+        "trigger": "安",
+        "event_type": "安定"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E4",
+        "tail": "E6",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "掾、主吏萧何、曹参乃曰：君为秦吏，今欲背之，率沛子弟，恐不听。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E3",
+        "trigger": "背",
+        "event_type": "背叛"
+      },
+      {
+        "id": "E4",
+        "trigger": "率",
+        "event_type": "率领"
+      },
+      {
+        "id": "E5",
+        "trigger": "听",
+        "event_type": "听从"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E3",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E1",
+        "tail": "E5",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "使谒者随何之九江王布所，曰：公能令布举兵叛楚，项羽必留击之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E2",
+        "trigger": "之",
+        "event_type": "前往"
+      },
+      {
+        "id": "E3",
+        "trigger": "曰",
+        "event_type": "说"
+      },
+      {
+        "id": "E4",
+        "trigger": "令",
+        "event_type": "让"
+      },
+      {
+        "id": "E5",
+        "trigger": "举",
+        "event_type": "起兵"
+      },
+      {
+        "id": "E6",
+        "trigger": "叛",
+        "event_type": "背叛"
+      },
+      {
+        "id": "E7",
+        "trigger": "留",
+        "event_type": "停留"
+      },
+      {
+        "id": "E8",
+        "trigger": "击",
+        "event_type": "攻击"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E6",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E7",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E3",
+        "tail": "E8",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E4",
+        "tail": "E5",
+        "relation_type": "顺承"
+      },
+      {
+        "head": "E5",
+        "tail": "E6",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E6",
+        "tail": "E7",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "且夫天子四海为家，非壮丽无以重威，且无令後世有以加也。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "作为"
+      },
+      {
+        "id": "E2",
+        "trigger": "重",
+        "event_type": "增加"
+      },
+      {
+        "id": "E3",
+        "trigger": "令",
+        "event_type": "让"
+      },
+      {
+        "id": "E4",
+        "trigger": "加",
+        "event_type": "超越"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "汉使将军郭蒙与齐将击，大破之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E2",
+        "trigger": "击",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E3",
+        "trigger": "大破",
+        "event_type": "大败"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "顺承"
+      }
+    ]
+  },
+  {
+    "text": "高祖以亭长为县送徒骊山，徒多道亡。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "担任"
+      },
+      {
+        "id": "E2",
+        "trigger": "送",
+        "event_type": "押送"
+      },
+      {
+        "id": "E3",
+        "trigger": "亡",
+        "event_type": "逃亡"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "封项羽为长安侯，号为鲁公。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "封",
+        "event_type": "封赏"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "成为"
+      },
+      {
+        "id": "E3",
+        "trigger": "号",
+        "event_type": "封号"
+      },
+      {
+        "id": "E4",
+        "trigger": "为",
+        "event_type": "成为"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "并列"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "田荣弟横立荣子广为齐王，齐王反楚城阳。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "立",
+        "event_type": "拥立"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "成为"
+      },
+      {
+        "id": "E3",
+        "trigger": "反",
+        "event_type": "反叛"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "并列"
+      }
+    ]
+  },
+  {
+    "text": "於是少年豪吏如萧、曹、樊哙等皆为收沛子弟二三千人，攻胡陵、方与，还守丰。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "收",
+        "event_type": "组织"
+      },
+      {
+        "id": "E2",
+        "trigger": "攻",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E3",
+        "trigger": "还守",
+        "event_type": "军事"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "”审食其入言之，乃以丁未发丧，大赦天下。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "言",
+        "event_type": "进言"
+      },
+      {
+        "id": "E2",
+        "trigger": "发丧",
+        "event_type": "政治"
+      },
+      {
+        "id": "E3",
+        "trigger": "赦",
+        "event_type": "政治"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "卢绾闻高祖崩，遂亡入匈奴。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "亡",
+        "event_type": "迁移"
+      },
+      {
+        "id": "E2",
+        "trigger": "入",
+        "event_type": "迁移"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "且人已服降，又杀之，不祥。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "降",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "杀",
+        "event_type": "未知"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "汉王数项羽曰：“始与项羽俱受命怀王，曰先入定关中者王之，项羽负约，王我於蜀汉，罪一。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E2",
+        "trigger": "受命",
+        "event_type": "政治"
+      },
+      {
+        "id": "E3",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E4",
+        "trigger": "入定",
+        "event_type": "军事"
+      },
+      {
+        "id": "E5",
+        "trigger": "负约",
+        "event_type": "政治"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "项氏败，利几为陈公，不随项羽，亡降高祖，高祖侯之颍川。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "亡",
+        "event_type": "未知"
+      },
+      {
+        "id": "E3",
+        "trigger": "降",
+        "event_type": "未知"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "於是乃分赵山北，立子恆以为代王，都晋阳。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "立",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "未知"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "其明年，立张耳为赵王。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "立",
+        "event_type": "政治"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "政治"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "即立太尉卢绾为燕王。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "立",
+        "event_type": "政治"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "政治"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "乃道砀至成阳，与杠里秦军夹壁，破二军。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "至",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "破",
+        "event_type": "未知"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "与父老约，法三章耳：杀人者死，伤人及盗抵罪。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "约",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "杀",
+        "event_type": "未知"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "七年，匈奴攻韩王信马邑，信因与谋反太原。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "攻",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "反",
+        "event_type": "未知"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "”汉王病创卧，张良彊请汉王起行劳军，以安士卒，毋令楚乘胜於汉。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "请",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "起",
+        "event_type": "未知"
+      },
+      {
+        "id": "E3",
+        "trigger": "安",
+        "event_type": "未知"
+      },
+      {
+        "id": "E4",
+        "trigger": "令",
+        "event_type": "未知"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "秦二世元年秋，陈胜等起蕲，至陈而王，号为“张楚”。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "起",
+        "event_type": "未知"
+      },
+      {
+        "id": "E2",
+        "trigger": "至",
+        "event_type": "未知"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "未知"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "周苛、枞公相谓曰：“反国之王，难与守城。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E2",
+        "trigger": "反",
+        "event_type": "反叛"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "病甚，吕后迎良医，医入见，高祖问医，医曰：“病可治。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "入",
+        "event_type": "移动"
+      },
+      {
+        "id": "E2",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E3",
+        "trigger": "治",
+        "event_type": "医疗"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "”汉王三让，不得已，曰：“诸君必以为便，便国家。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "得",
+        "event_type": "状态变化"
+      },
+      {
+        "id": "E2",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E3",
+        "trigger": "为",
+        "event_type": "认知"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "吾以义兵从诸侯诛残贼，使刑馀罪人击杀项羽，何苦乃与公挑战。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "诛",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E2",
+        "trigger": "使",
+        "event_type": "使令"
+      },
+      {
+        "id": "E3",
+        "trigger": "杀",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E4",
+        "trigger": "战",
+        "event_type": "冲突"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "沛公曰：“始怀王遣我，固以能宽容。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E2",
+        "trigger": "遣",
+        "event_type": "派遣"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "汉王之出荥阳入关，收兵欲复东。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "出",
+        "event_type": "移动"
+      },
+      {
+        "id": "E2",
+        "trigger": "入",
+        "event_type": "移动"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "初，项羽与宋义北救赵，及项羽杀宋义，代为上将军，诸将黥布皆属，破秦将王离军，降章邯，诸侯皆附。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "杀",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "职位变更"
+      },
+      {
+        "id": "E3",
+        "trigger": "破",
+        "event_type": "军事胜利"
+      },
+      {
+        "id": "E4",
+        "trigger": "降",
+        "event_type": "投降"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "吕后曰：“季所居上常有云气，故从往常得季。”",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E2",
+        "trigger": "得",
+        "event_type": "寻找"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "发使者告诸侯曰：“天下共立义帝，北面事之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E2",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E3",
+        "trigger": "立",
+        "event_type": "拥立"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "於是拜沛侯刘濞为吴王。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "拜",
+        "event_type": "册封"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "职位变更"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "张良谏曰：“沛公虽欲急入关，秦兵尚众，距险。”",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "劝谏"
+      },
+      {
+        "id": "E2",
+        "trigger": "入",
+        "event_type": "移动"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "高祖奉玉卮，起为太上皇寿，曰：“始大人常以臣无赖，不能治产业，不如仲力。”",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "起",
+        "event_type": "动作"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "礼仪"
+      },
+      {
+        "id": "E3",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E4",
+        "trigger": "治",
+        "event_type": "经济活动"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "留侯曰：“不如因而立之，使自为守。”",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "建议"
+      },
+      {
+        "id": "E2",
+        "trigger": "立",
+        "event_type": "册封"
+      },
+      {
+        "id": "E3",
+        "trigger": "使",
+        "event_type": "使令"
+      },
+      {
+        "id": "E4",
+        "trigger": "为",
+        "event_type": "职位"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "汉王欲引而西归，用留侯、陈平计，乃进兵追项羽，至阳夏南止军，与齐王信、建成侯彭越期会而击楚军。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "归",
+        "event_type": "意图"
+      },
+      {
+        "id": "E2",
+        "trigger": "追",
+        "event_type": "军事行动"
+      },
+      {
+        "id": "E3",
+        "trigger": "至",
+        "event_type": "移动"
+      },
+      {
+        "id": "E4",
+        "trigger": "会",
+        "event_type": "会盟"
+      },
+      {
+        "id": "E5",
+        "trigger": "击",
+        "event_type": "军事攻击"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "高祖为亭长，乃以竹皮为冠，令求盗之薛治之，时时冠之，及贵常冠，所谓“刘氏冠”乃是也。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "为",
+        "event_type": "任职"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "制作"
+      },
+      {
+        "id": "E3",
+        "trigger": "令",
+        "event_type": "使令"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "次代王恆，已立为孝文帝，薄太后子。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "立",
+        "event_type": "册封"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "职位变更"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "群臣皆曰：“高祖起微细，拨乱世反之正，平定天下，为汉太祖，功最高。”",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E2",
+        "trigger": "起",
+        "event_type": "兴起"
+      },
+      {
+        "id": "E3",
+        "trigger": "反",
+        "event_type": "政治改革"
+      },
+      {
+        "id": "E4",
+        "trigger": "为",
+        "event_type": "职位变更"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "士卒半渡，汉击之，大破楚军，尽得楚国金玉货赂。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "渡",
+        "event_type": "移动"
+      },
+      {
+        "id": "E2",
+        "trigger": "击",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E3",
+        "trigger": "大破",
+        "event_type": "军事胜利"
+      },
+      {
+        "id": "E4",
+        "trigger": "得",
+        "event_type": "获得"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "於是高祖嫚骂之曰：“吾以布衣提三尺剑取天下，此非天命乎。”",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E2",
+        "trigger": "取",
+        "event_type": "取得"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "乃逾城见沛公，曰：“臣闻足下约，先入咸阳者王之。”",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "逾",
+        "event_type": "移动"
+      },
+      {
+        "id": "E2",
+        "trigger": "见",
+        "event_type": "会见"
+      },
+      {
+        "id": "E3",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E4",
+        "trigger": "入",
+        "event_type": "移动"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "故汉兴，承敝易变，使人不倦，得天统矣。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "兴",
+        "event_type": "兴起"
+      },
+      {
+        "id": "E2",
+        "trigger": "承",
+        "event_type": "改革"
+      },
+      {
+        "id": "E3",
+        "trigger": "使",
+        "event_type": "使令"
+      },
+      {
+        "id": "E4",
+        "trigger": "得",
+        "event_type": "获得"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "乃使使徙义帝长沙郴县，趣义帝行，群臣稍倍叛之，乃阴令衡山王、临江王击之，杀义帝江南。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E2",
+        "trigger": "徙",
+        "event_type": "迁移"
+      },
+      {
+        "id": "E3",
+        "trigger": "趣",
+        "event_type": "催促"
+      },
+      {
+        "id": "E4",
+        "trigger": "令",
+        "event_type": "命令"
+      },
+      {
+        "id": "E5",
+        "trigger": "击",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E6",
+        "trigger": "杀",
+        "event_type": "杀死"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "人问何哭，妪曰：“人杀吾子，故哭之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "哭",
+        "event_type": "哭泣"
+      },
+      {
+        "id": "E2",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E3",
+        "trigger": "杀",
+        "event_type": "杀死"
+      },
+      {
+        "id": "E4",
+        "trigger": "哭",
+        "event_type": "哭泣"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E3",
+        "tail": "E4",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E4",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "”令相两子，见孝惠，曰：“夫人所以贵者，乃此男也。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "令",
+        "event_type": "使令"
+      },
+      {
+        "id": "E2",
+        "trigger": "见",
+        "event_type": "会见"
+      },
+      {
+        "id": "E3",
+        "trigger": "曰",
+        "event_type": "陈述"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "高祖奉玉卮，起为太上皇寿，曰：“始大人常以臣无赖，不能治产业，不如仲力。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "起",
+        "event_type": "动作"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "礼仪"
+      },
+      {
+        "id": "E3",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E4",
+        "trigger": "治",
+        "event_type": "经济活动"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "使骑将灌婴追杀项羽东城，斩首八万，遂略定楚地。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "使",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E2",
+        "trigger": "杀",
+        "event_type": "攻击"
+      },
+      {
+        "id": "E3",
+        "trigger": "斩",
+        "event_type": "杀死"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "谒入，吕公大惊，起，迎之门。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "入",
+        "event_type": "送达"
+      },
+      {
+        "id": "E2",
+        "trigger": "起",
+        "event_type": "动作"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "汉王遣将军韩信击，大破之，虏豹。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "遣",
+        "event_type": "派遣"
+      },
+      {
+        "id": "E2",
+        "trigger": "大破",
+        "event_type": "军事胜利"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "高祖所教歌兒百二十人，皆令为吹乐，後有缺，辄补之。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "令",
+        "event_type": "使令"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "表演"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "郦将军往见审食其，曰：“吾闻帝已崩，四日不发丧，欲诛诸将。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E2",
+        "trigger": "诛",
+        "event_type": "攻击"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "闻陈王定死，因立楚後怀王孙心为楚王，治盱台。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "立",
+        "event_type": "册封"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "职位变更"
+      },
+      {
+        "id": "E3",
+        "trigger": "治",
+        "event_type": "建都"
+      }
+    ],
+    "relations": [
+      {
+        "head": "E1",
+        "tail": "E2",
+        "relation_type": "因果"
+      },
+      {
+        "head": "E2",
+        "tail": "E3",
+        "relation_type": "因果"
+      }
+    ]
+  },
+  {
+    "text": "置酒沛宫，悉召故人父老子弟纵酒，发沛中兒得百二十人，教之歌。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "置",
+        "event_type": "设置"
+      },
+      {
+        "id": "E2",
+        "trigger": "得",
+        "event_type": "获得"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "怀王诸老将皆曰：“项羽为人僄悍猾贼。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "曰",
+        "event_type": "陈述"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "属性"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "沛公与项羽西略地至雍丘之下，与秦军战，大破之，斩李由。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "至",
+        "event_type": "移动"
+      },
+      {
+        "id": "E2",
+        "trigger": "战",
+        "event_type": "战斗"
+      },
+      {
+        "id": "E3",
+        "trigger": "大破",
+        "event_type": "军事胜利"
+      },
+      {
+        "id": "E4",
+        "trigger": "斩",
+        "event_type": "杀死"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "项羽闻之，乃引兵去齐，从鲁出胡陵，至萧，与汉大战彭城灵壁东睢水上，大破汉军，多杀士卒，睢水为之不流。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "出",
+        "event_type": "移动"
+      },
+      {
+        "id": "E2",
+        "trigger": "至",
+        "event_type": "移动"
+      },
+      {
+        "id": "E3",
+        "trigger": "战",
+        "event_type": "战斗"
+      },
+      {
+        "id": "E4",
+        "trigger": "大破",
+        "event_type": "军事胜利"
+      },
+      {
+        "id": "E5",
+        "trigger": "杀",
+        "event_type": "杀死"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "秦二世二年，陈涉之将周章军西至戏而还。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "至",
+        "event_type": "移动"
+      },
+      {
+        "id": "E2",
+        "trigger": "还",
+        "event_type": "移动"
+      }
+    ],
+    "relations": []
+  },
+  {
+    "text": "後十馀日，封韩信为淮阴侯，分其地为二国。",
+    "events": [
+      {
+        "id": "E1",
+        "trigger": "封",
+        "event_type": "册封"
+      },
+      {
+        "id": "E2",
+        "trigger": "为",
+        "event_type": "职位变更"
+      },
+      {
+        "id": "E3",
+        "trigger": "分",
+        "event_type": "分割"
+      }
+    ],
+    "relations": []
+  }
+]
