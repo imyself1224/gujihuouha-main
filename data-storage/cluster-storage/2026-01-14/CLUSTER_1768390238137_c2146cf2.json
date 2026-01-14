@@ -1,0 +1,164 @@
+[
+  {
+    "id": "HGZ-256",
+    "description": "刘邦出生（字季，丰邑中阳里人）",
+    "year": -256,
+    "location": "沛丰邑"
+  },
+  {
+    "id": "HGZ-210",
+    "description": "任泗水亭长，放走刑徒，潜逃芒砀山",
+    "year": -210,
+    "location": "泗水、芒砀山"
+  },
+  {
+    "id": "HGZ-209",
+    "description": "陈胜吴广起义后，沛县反秦，推刘邦为沛公",
+    "year": -209,
+    "location": "沛"
+  },
+  {
+    "id": "HGZ-209b",
+    "description": "攻克丰邑、薛城，收纳人众",
+    "year": -209,
+    "location": "丰、薛"
+  },
+  {
+    "id": "HGZ-208",
+    "description": "攻下砀郡、下邑，势力扩大",
+    "year": -208,
+    "location": "砀郡、下邑"
+  },
+  {
+    "id": "HGZ-207a",
+    "description": "巨鹿之战，项羽击破秦军，刘邦进军关中",
+    "year": -207,
+    "location": "巨鹿、关中"
+  },
+  {
+    "id": "HGZ-207b",
+    "description": "刘邦先入咸阳，秦王子婴投降",
+    "year": -207,
+    "location": "咸阳"
+  },
+  {
+    "id": "HGZ-207c",
+    "description": "鸿门宴与项羽会盟，刘邦退居汉中",
+    "year": -207,
+    "location": "鸿门、灞上"
+  },
+  {
+    "id": "HGZ-206a",
+    "description": "封为汉王，入汉中",
+    "year": -206,
+    "location": "南郑"
+  },
+  {
+    "id": "HGZ-206b",
+    "description": "出武关，击楚军，占洛阳、成皋",
+    "year": -206,
+    "location": "武关、洛阳、成皋"
+  },
+  {
+    "id": "HGZ-205a",
+    "description": "彭城之战，大败于项羽",
+    "year": -205,
+    "location": "彭城"
+  },
+  {
+    "id": "HGZ-205b",
+    "description": "楚汉对峙，刘邦退守荥阳，张良、陈平献策",
+    "year": -205,
+    "location": "荥阳"
+  },
+  {
+    "id": "HGZ-204a",
+    "description": "韩信袭赵，刘邦与项羽相持",
+    "year": -204,
+    "location": "邯郸、荥阳"
+  },
+  {
+    "id": "HGZ-204b",
+    "description": "刘邦为项羽所败，逃至成皋，太公、吕后被俘",
+    "year": -204,
+    "location": "成皋"
+  },
+  {
+    "id": "HGZ-203a",
+    "description": "楚汉和议，鸿沟分界",
+    "year": -203,
+    "location": "鸿沟"
+  },
+  {
+    "id": "HGZ-203b",
+    "description": "刘邦背约，再战项羽，韩信、彭越夹击楚",
+    "year": -203,
+    "location": "河南"
+  },
+  {
+    "id": "HGZ-202a",
+    "description": "垓下之战，项羽自刎乌江",
+    "year": -202,
+    "location": "垓下、乌江"
+  },
+  {
+    "id": "HGZ-202b",
+    "description": "刘邦称帝，建汉，定都长安",
+    "year": -202,
+    "location": "长安"
+  },
+  {
+    "id": "HGZ-201",
+    "description": "削异姓王，封同姓王",
+    "year": -201,
+    "location": "长安"
+  },
+  {
+    "id": "HGZ-200a",
+    "description": "匈奴冒顿围刘邦于平城（白登之围）",
+    "year": -200,
+    "location": "平城"
+  },
+  {
+    "id": "HGZ-200b",
+    "description": "陈平分化楚王韩信、英布",
+    "year": -200,
+    "location": "长安、楚地"
+  },
+  {
+    "id": "HGZ-198",
+    "description": "英布起兵反汉，被平定",
+    "year": -198,
+    "location": "淮南"
+  },
+  {
+    "id": "HGZ-197",
+    "description": "太子之位确立，吕后势力上升",
+    "year": -197,
+    "location": "长安"
+  },
+  {
+    "id": "HGZ-196a",
+    "description": "韩信谋反被杀",
+    "year": -196,
+    "location": "长安"
+  },
+  {
+    "id": "HGZ-196b",
+    "description": "陈豨起兵反汉，刘邦亲征",
+    "year": -196,
+    "location": "代地"
+  },
+  {
+    "id": "HGZ-195a",
+    "description": "刘邦病重，回长乐宫",
+    "year": -195,
+    "location": "长安"
+  },
+  {
+    "id": "HGZ-195b",
+    "description": "刘邦驾崩，葬于长陵",
+    "year": -195,
+    "location": "长安、长陵"
+  }
+]
