@@ -1,0 +1,196 @@
+{"text": "其先刘媪尝息大泽之陂，梦与神遇。是时雷电晦冥，太公往视，则见蛟龙於其上。", "event_list": [{"event_type": "地理/雷雨風", "trigger": "雷电晦冥", "arguments": [{"role": "时间", "argument": "是时"}, {"role": "地点", "argument": "大泽之陂"}]}]}
+{"text": "其先刘媪尝息大泽之陂，梦与神遇。是时雷电晦冥，太公往视，则见蛟龙於其上。已而有身，遂产高祖。", "event_list": [{"event_type": "人生/出生", "trigger": "产", "arguments": [{"role": "人物", "argument": "高祖"}, {"role": "地点", "argument": "大泽之陂"}]}]}
+{"text": "高祖为人，隆准而龙颜，美须髯，左股有七十二黑子。", "event_list": [{"event_type": "日常/形象描写", "trigger": "隆准而龙颜，美须髯", "arguments": [{"role": "描写词", "argument": "隆准、龙颜、美须髯、左股有七十二黑子"}]}]}
+{"text": "及壮，试为吏，为泗水亭长。", "event_list": [{"event_type": "政治/任职管辖", "trigger": "为", "arguments": [{"role": "人物", "argument": "高祖"}, {"role": "职位", "argument": "泗水亭长"}, {"role": "时间", "argument": "及壮"}]}]}
+{"text": "高祖常繇咸阳，纵观，观秦皇帝。", "event_list": [{"event_type": "日常/出行事件", "trigger": "繇", "arguments": [{"role": "人物", "argument": "高祖"}, {"role": "目的地", "argument": "咸阳"}]}]}
+{"text": "喟然太息曰：嗟乎，大丈夫当如此也！", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "高祖"}, {"role": "说话内容", "argument": "嗟乎，大丈夫当如此也"}]}]}
+{"text": "沛中豪桀吏闻令有重客，皆往贺。", "event_list": [{"event_type": "日常/会见事件", "trigger": "往贺", "arguments": [{"role": "会见人", "argument": "沛中豪桀吏"}, {"role": "被见人", "argument": "重客（吕公）"}, {"role": "事由", "argument": "闻令有重客"}]}]}
+{"text": "高祖为亭长，素易诸吏，乃绐为谒曰贺钱万，实不持一钱。", "event_list": [{"event_type": "政治/贿赂事件", "trigger": "贺钱万", "arguments": [{"role": "贿赂人", "argument": "高祖"}, {"role": "诉求", "argument": "求见吕公"}]}]}
+{"text": "吕公曰：臣少好相人，相人多矣，无如季相，原季自爱。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "吕公"}, {"role": "说话内容", "argument": "臣少好相人，相人多矣，无如季相，原季自爱。"}]}]}
+{"text": "臣有息女，原为季箕帚妾。", "event_list": [{"event_type": "人生/婚嫁", "trigger": "为", "arguments": [{"role": "女方", "argument": "息女（吕后）"}, {"role": "男方", "argument": "季（高祖）"}]}]}
+{"text": "卒与刘季。", "event_list": [{"event_type": "人生/婚嫁", "trigger": "与", "arguments": [{"role": "女方", "argument": "吕后"}, {"role": "男方", "argument": "刘季"}]}]}
+{"text": "高祖为亭长时，常告归之田。", "event_list": [{"event_type": "日常/出行事件", "trigger": "归", "arguments": [{"role": "人物", "argument": "高祖"}, {"role": "目的地", "argument": "田"}]}]}
+{"text": "老父相吕后曰：夫人天下贵人。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "老父"}, {"role": "说话内容", "argument": "夫人天下贵人"}]}]}
+{"text": "高祖以亭长为县送徒郦山，徒多道亡。", "event_list": [{"event_type": "战争/逃逸事件", "trigger": "亡", "arguments": [{"role": "逃逸者", "argument": "徒"}, {"role": "时间", "argument": "送徒时"}]}]}
+{"text": "夜乃解纵所送徒。曰：公等皆去，吾亦从此逝矣！", "event_list": [{"event_type": "战争/起兵事件", "trigger": "解纵", "arguments": [{"role": "人物", "argument": "高祖"}, {"role": "动作", "argument": "释放囚徒"}, {"role": "原因", "argument": "徒多道亡"}]}]}
+{"text": "徒中壮士原从者十馀人。", "event_list": [{"event_type": "战争/投奔事件", "trigger": "从", "arguments": [{"role": "人物", "argument": "壮士十馀人"}, {"role": "投奔于", "argument": "高祖"}]}]}
+{"text": "高祖被酒，夜径泽中，令一人行前。", "event_list": [{"event_type": "日常/命令事件", "trigger": "令", "arguments": [{"role": "命令人", "argument": "高祖"}, {"role": "被命令人", "argument": "一人"}, {"role": "命令内容", "argument": "行前"}]}]}
+{"text": "行前者还报曰：前有大蛇当径，原还。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "行前者"}, {"role": "说话内容", "argument": "前有大蛇当径，原还"}]}]}
+{"text": "高祖醉，曰：壮士行，何畏！", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "高祖"}, {"role": "说话内容", "argument": "壮士行，何畏"}]}]}
+{"text": "乃前，拔剑击斩蛇。", "event_list": [{"event_type": "战争/刺杀事件", "trigger": "斩", "arguments": [{"role": "刺杀者", "argument": "高祖"}, {"role": "被害人", "argument": "蛇"}]}]}
+{"text": "人问何哭，妪曰：人杀吾子，故哭之。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "妪"}, {"role": "说话内容", "argument": "人杀吾子，故哭之"}]}]}
+{"text": "人曰：妪子何为见杀？", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "人"}, {"role": "说话内容", "argument": "妪子何为见杀"}]}]}
+{"text": "妪曰：吾，白帝子也，化为蛇，当道，今为赤帝子斩之，故哭。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "妪"}, {"role": "说话内容", "argument": "吾，白帝子也，化为蛇，当道，今为赤帝子斩之，故哭。"}]}]}
+{"text": "秦二世元年秋，陈胜等起蕲，至陈而王，号为张楚。", "event_list": [{"event_type": "战争/起兵事件", "trigger": "起", "arguments": [{"role": "人物", "argument": "陈胜"}, {"role": "地点", "argument": "蕲"}, {"role": "结果", "argument": "王于陈"}]}]}
+{"text": "沛令恐，欲以沛应涉。", "event_list": [{"event_type": "政治/叛变事件", "trigger": "应", "arguments": [{"role": "人物", "argument": "沛令"}, {"role": "行为", "argument": "应涉（响应陈涉）"}]}]}
+{"text": "乃令樊哙召刘季。", "event_list": [{"event_type": "政治/派遣事件", "trigger": "令", "arguments": [{"role": "派遣人", "argument": "沛令（上下文）"}, {"role": "被派遣人", "argument": "樊哙"}, {"role": "行为", "argument": "召刘季"}]}]}
+{"text": "於是樊哙从刘季来。", "event_list": [{"event_type": "日常/跟随事件", "trigger": "从", "arguments": [{"role": "跟随者", "argument": "樊哙"}, {"role": "被跟随人", "argument": "刘季"}]}]}
+{"text": "沛令後悔，恐其有变，乃闭城城守。", "event_list": [{"event_type": "战争/防守事件", "trigger": "守", "arguments": [{"role": "人物", "argument": "沛令"}, {"role": "地点", "argument": "城"}]}]}
+{"text": "萧、曹恐，逾城保刘季。", "event_list": [{"event_type": "战争/投奔事件", "trigger": "保", "arguments": [{"role": "人物", "argument": "萧、曹"}, {"role": "投奔于", "argument": "刘季"}]}]}
+{"text": "刘季乃书帛射城上，谓沛父老曰：天下苦秦久矣。", "event_list": [{"event_type": "政治/诏谕事件", "trigger": "谓", "arguments": [{"role": "昭谕人", "argument": "刘季"}, {"role": "受听人", "argument": "沛父老"}, {"role": "内容", "argument": "天下苦秦久矣。"}]}]}
+{"text": "父老乃率子弟共杀沛令，开城门迎刘季。", "event_list": [{"event_type": "战争/刺杀事件", "trigger": "杀", "arguments": [{"role": "刺杀者", "argument": "父老、子弟"}, {"role": "被害人", "argument": "沛令"}]}]}
+{"text": "父老乃率子弟共杀沛令，开城门迎刘季，欲以为沛令。", "event_list": [{"event_type": "政治/推举事件", "trigger": "欲以为", "arguments": [{"role": "被推荐人", "argument": "刘季"}, {"role": "推荐职位", "argument": "沛令"}]}]}
+{"text": "刘季曰：天下方扰，诸侯并起，今置将不善，壹败涂地。吾非敢自爱，恐能薄，不能完父兄子弟。此大事，原更相推择可者。", "event_list": [{"event_type": "日常/推辞拒绝", "trigger": "曰", "arguments": [{"role": "推辞人", "argument": "刘季"}, {"role": "拒绝内容", "argument": "推辞沛令职位"}]}]}
+{"text": "於是刘季数让。众莫敢为，乃立季为沛公。", "event_list": [{"event_type": "政治/分封事件", "trigger": "立", "arguments": [{"role": "受封者", "argument": "刘季"}, {"role": "受封内容", "argument": "沛公"}]}]}
+{"text": "祠黄帝，祭蚩尤於沛庭。", "event_list": [{"event_type": "民事/宗教事件", "trigger": "祠、祭", "arguments": [{"role": "祭祀人", "argument": "刘季部众"}, {"role": "宗教", "argument": "黄帝、蚩尤信仰"}, {"role": "地点", "argument": "沛庭"}]}]}
+{"text": "於是少年豪吏如萧、曹、樊哙等皆为收沛子弟二三千人，攻胡陵、方与。", "event_list": [{"event_type": "战争/进攻事件", "trigger": "攻", "arguments": [{"role": "进攻者", "argument": "萧、曹、樊哙"}, {"role": "被攻击者", "argument": "胡陵、方与"}]}]}
+{"text": "秦泗川监平将兵围丰，二日，出与战，破之。", "event_list": [{"event_type": "战争/围攻事件", "trigger": "围", "arguments": [{"role": "包围者", "argument": "秦泗川监平"}, {"role": "被围者", "argument": "丰"}]}]}
+{"text": "命雍齿守丰。", "event_list": [{"event_type": "政治/任命事件", "trigger": "命", "arguments": [{"role": "被任命人", "argument": "雍齿"}, {"role": "职位", "argument": "守丰"}]}]}
+{"text": "雍齿雅不欲属沛公，及魏招之，即反为魏守丰。", "event_list": [{"event_type": "政治/叛变事件", "trigger": "反", "arguments": [{"role": "人物", "argument": "雍齿"}, {"role": "行为", "argument": "叛变投魏"}]}]}
+{"text": "沛公引兵攻丰，不能取。", "event_list": [{"event_type": "战争/进攻事件", "trigger": "攻", "arguments": [{"role": "进攻者", "argument": "沛公"}, {"role": "被攻击者", "argument": "丰"}, {"role": "结果", "argument": "不能取"}]}]}
+{"text": "闻项梁在薛，从骑百馀往见之。", "event_list": [{"event_type": "日常/会见事件", "trigger": "往见", "arguments": [{"role": "会见人", "argument": "沛公"}, {"role": "被见人", "argument": "项梁"}, {"role": "地点", "argument": "薛"}]}]}
+{"text": "项梁益沛公卒五千人，五大夫将十人。", "event_list": [{"event_type": "战争/调兵事件", "trigger": "益", "arguments": [{"role": "调兵人", "argument": "项梁"}, {"role": "所调士兵", "argument": "卒五千人，五大夫将十人"}, {"role": "调兵于", "argument": "沛公"}]}]}
+{"text": "沛公与项羽西略地至雍丘之下，与秦军战，大破之，斩李由。", "event_list": [{"event_type": "战争/战败事件", "trigger": "破", "arguments": [{"role": "胜利者", "argument": "沛公、项羽"}, {"role": "失败者", "argument": "秦军"}, {"role": "地点", "argument": "雍丘"}]}]}
+{"text": "怀王乃以宋义为上将军，项羽为次将，范增为末将，北救赵。", "event_list": [{"event_type": "政治/任命事件", "trigger": "以", "arguments": [{"role": "被任命人", "argument": "宋义"}, {"role": "职位", "argument": "上将军"}]}]}
+{"text": "令沛公西略地入关。", "event_list": [{"event_type": "政治/派遣事件", "trigger": "令", "arguments": [{"role": "派遣人", "argument": "怀王"}, {"role": "被派遣人", "argument": "沛公"}, {"role": "行为", "argument": "西略地入关"}]}]}
+{"text": "与诸将约，先入定关中者王之。", "event_list": [{"event_type": "日常/许诺事件", "trigger": "约", "arguments": [{"role": "许诺人", "argument": "怀王"}, {"role": "事件", "argument": "先入定关中者王之"}]}]}
+{"text": "沛公兵遂先诸侯至霸上。", "event_list": [{"event_type": "战争/出征事件", "trigger": "至", "arguments": [{"role": "出征人", "argument": "沛公"}, {"role": "目的地", "argument": "霸上"}]}]}
+{"text": "秦王子婴素车白马，系颈以组，封皇帝玺符节，降轵道旁。", "event_list": [{"event_type": "战争/受降事件", "trigger": "降", "arguments": [{"role": "投降者", "argument": "秦王子婴"}, {"role": "投降地点", "argument": "轵道旁"}, {"role": "受降者", "argument": "沛公"}]}]}
+{"text": "乃封秦重宝财物府库，还军霸上。", "event_list": [{"event_type": "政治/赏赐事件", "trigger": "封", "arguments": [{"role": "赏赐人", "argument": "沛公"}, {"role": "赏赐内容", "argument": "秦重宝财物府库（保管）"}]}]}
+{"text": "召诸县父老豪桀曰：父老苦秦苛法久矣，诽谤者族，偶语者弃巿。吾与诸侯约，先入关者王之，吾当王关中。与父老约，法三章耳。", "event_list": [{"event_type": "政治/诏谕事件", "trigger": "召", "arguments": [{"role": "昭谕人", "argument": "沛公"}, {"role": "受听人", "argument": "诸县父老豪桀"}, {"role": "内容", "argument": "除秦法，约法三章"}]}]}
+{"text": "可急使兵守函谷关。", "event_list": [{"event_type": "战争/调兵事件", "trigger": "使", "arguments": [{"role": "调兵人", "argument": "沛公"}, {"role": "目的", "argument": "守函谷关"}]}]}
+{"text": "项羽果率诸侯兵西，欲入关，关门闭。", "event_list": [{"event_type": "战争/进攻事件", "trigger": "欲入", "arguments": [{"role": "进攻者", "argument": "项羽"}, {"role": "被攻击者", "argument": "关"}]}]}
+{"text": "沛公从百馀骑，驱之鸿门，见谢项羽。", "event_list": [{"event_type": "日常/会见事件", "trigger": "见谢", "arguments": [{"role": "会见人", "argument": "沛公"}, {"role": "被见人", "argument": "项羽"}, {"role": "地点", "argument": "鸿门"}]}]}
+{"text": "项羽遂西，屠烧咸阳秦宫室。", "event_list": [{"event_type": "战争/进攻事件", "trigger": "屠烧", "arguments": [{"role": "进攻者", "argument": "项羽"}, {"role": "被攻击者", "argument": "咸阳秦宫室"}]}]}
+{"text": "正月，项羽自立为西楚霸王。", "event_list": [{"event_type": "政治/登基事件", "trigger": "自立", "arguments": [{"role": "登基人", "argument": "项羽"}, {"role": "时间", "argument": "正月"}]}]}
+{"text": "负约，更立沛公为汉王。", "event_list": [{"event_type": "政治/分封事件", "trigger": "立", "arguments": [{"role": "受封者", "argument": "沛公"}, {"role": "受封内容", "argument": "汉王"}]}]}
+{"text": "汉王之国，项王使卒三万人从。", "event_list": [{"event_type": "战争/调兵事件", "trigger": "使", "arguments": [{"role": "调兵人", "argument": "项王"}, {"role": "所调士兵", "argument": "卒三万人"}, {"role": "调兵于", "argument": "汉王"}]}]}
+{"text": "去辄烧绝栈道。", "event_list": [{"event_type": "战争/防守事件", "trigger": "烧绝", "arguments": [{"role": "人物", "argument": "汉王"}, {"role": "地点", "argument": "栈道"}]}]}
+{"text": "韩信说汉王曰：项羽王诸将之有功者，而王独居南郑，是迁也。军吏士卒皆山东之人也，日夜跂而望归，及其锋而用之，可以有大功。天下已定，人皆自宁，不可复用。不如决策东乡，争权天下。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "说", "arguments": [{"role": "说话人", "argument": "韩信"}, {"role": "听话人", "argument": "汉王"}, {"role": "说话内容", "argument": "建议东进争天下"}]}]}
+{"text": "汉王用韩信之计，从故道还，袭雍王章邯。", "event_list": [{"event_type": "战争/伏击事件", "trigger": "袭", "arguments": [{"role": "埋伏者", "argument": "汉王"}, {"role": "被埋伏者", "argument": "雍王章邯"}]}]}
+{"text": "邯迎击汉陈仓，雍兵败，还走。", "event_list": [{"event_type": "战争/战败事件", "trigger": "败", "arguments": [{"role": "失败者", "argument": "雍兵"}, {"role": "胜利者", "argument": "汉军"}]}]}
+{"text": "新城三老董公遮说汉王以义帝死故。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "说", "arguments": [{"role": "说话人", "argument": "董公"}, {"role": "听话人", "argument": "汉王"}, {"role": "说话内容", "argument": "义帝死故"}]}]}
+{"text": "遂为义帝发丧，临三日。", "event_list": [{"event_type": "日常/埋葬事件", "trigger": "发丧", "arguments": [{"role": "埋葬人", "argument": "汉王"}]}]}
+{"text": "发使者告诸侯曰：天下共立义帝，北面事之。今项羽放杀义帝於江南，大逆无道。寡人亲为发丧，诸侯皆缟素。悉发关内兵，收三河士，南浮江汉以下，原从诸侯王击楚之杀义帝者。", "event_list": [{"event_type": "政治/诏谕事件", "trigger": "告", "arguments": [{"role": "昭谕人", "argument": "汉王"}, {"role": "受听人", "argument": "诸侯"}, {"role": "内容", "argument": "号召击楚"}]}]}
+{"text": "汉王以故得劫五诸侯兵，遂入彭城。", "event_list": [{"event_type": "战争/起兵事件", "trigger": "劫", "arguments": [{"role": "人物", "argument": "汉王"}, {"role": "动作", "argument": "劫五诸侯兵"}]}]}
+{"text": "项羽闻之，乃引兵去齐，从鲁出胡陵，至萧，与汉大战彭城灵壁东睢水上，大破汉军。", "event_list": [{"event_type": "战争/战败事件", "trigger": "破", "arguments": [{"role": "胜利者", "argument": "项羽"}, {"role": "失败者", "argument": "汉军"}]}]}
+{"text": "乃取汉王父母妻子於沛，置之军中以为质。", "event_list": [{"event_type": "战争/劫持事件", "trigger": "取", "arguments": [{"role": "劫持人", "argument": "项羽军"}, {"role": "被劫持人", "argument": "汉王父母妻子"}]}]}
+{"text": "汉王从之，稍收士卒，军砀。", "event_list": [{"event_type": "战争/驻扎事件", "trigger": "军", "arguments": [{"role": "人物", "argument": "汉王"}, {"role": "地点", "argument": "砀"}]}]}
+{"text": "使谒者随何之九江王布所。", "event_list": [{"event_type": "政治/派遣事件", "trigger": "使", "arguments": [{"role": "派遣人", "argument": "汉王"}, {"role": "被派遣人", "argument": "随何"}, {"role": "行为", "argument": "之九江王布所"}]}]}
+{"text": "随何往说九江王布，布果背楚。", "event_list": [{"event_type": "政治/叛变事件", "trigger": "背", "arguments": [{"role": "人物", "argument": "布（黥布）"}]}]}
+{"text": "立为太子，大赦罪人。", "event_list": [{"event_type": "政治/赦免事件", "trigger": "赦", "arguments": [{"role": "赦免对象", "argument": "罪人"}]}]}
+{"text": "引水灌废丘，废丘降，章邯自杀。", "event_list": [{"event_type": "战争/受降事件", "trigger": "降", "arguments": [{"role": "投降者", "argument": "废丘守军"}, {"role": "受降者", "argument": "汉军"}]}]}
+{"text": "更名废丘为槐里。", "event_list": [{"event_type": "日常/更名事件", "trigger": "更名", "arguments": [{"role": "原名称", "argument": "废丘"}, {"role": "新名称", "argument": "槐里"}]}]}
+{"text": "汉王军荥阳南，筑甬道属之河，以取敖仓。", "event_list": [{"event_type": "民事/修建事件", "trigger": "筑", "arguments": [{"role": "修建人", "argument": "汉王军"}, {"role": "修建内容", "argument": "甬道"}]}]}
+{"text": "汉王请和，割荥阳以西者为汉。", "event_list": [{"event_type": "政治/奏请事件", "trigger": "请", "arguments": [{"role": "凑请人", "argument": "汉王"}, {"role": "内容", "argument": "割荥阳以西者为汉"}]}]}
+{"text": "用陈平之计，予陈平金四万斤，以间疏楚君臣。", "event_list": [{"event_type": "政治/贿赂事件", "trigger": "予", "arguments": [{"role": "贿赂人", "argument": "汉王"}, {"role": "受贿人", "argument": "陈平"}, {"role": "诉求", "argument": "离间楚君臣"}]}]}
+{"text": "将军纪信乃乘王驾，诈为汉王，诳楚。", "event_list": [{"event_type": "战争/投奔事件", "trigger": "诈为", "arguments": [{"role": "人物", "argument": "纪信"}, {"role": "行为", "argument": "伪装汉王"}]}]}
+{"text": "周苛、枞公相谓曰：反国之王，难与守城。因杀魏豹。", "event_list": [{"event_type": "战争/刺杀事件", "trigger": "杀", "arguments": [{"role": "刺杀者", "argument": "周苛、枞公"}, {"role": "被害人", "argument": "魏豹"}]}]}
+{"text": "袁生说汉王曰：汉与楚相距荥阳数岁，汉常困。原君王出武关，项羽必引兵南走，王深壁，令荥阳成皋间且得休。使韩信等辑河北赵地，连燕齐，君王乃复走荥阳，未晚也。如此，则楚所备者多，力分，汉得休，复与之战，破楚必矣。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "说", "arguments": [{"role": "说话人", "argument": "袁生"}, {"role": "听话人", "argument": "汉王"}, {"role": "说话内容", "argument": "战略建议"}]}]}
+{"text": "项羽乃引兵东击彭越。", "event_list": [{"event_type": "战争/进攻事件", "trigger": "击", "arguments": [{"role": "进攻者", "argument": "项羽"}, {"role": "被攻击者", "argument": "彭越"}]}]}
+{"text": "汉王亦引兵北军成皋。", "event_list": [{"event_type": "战争/驻扎事件", "trigger": "军", "arguments": [{"role": "人物", "argument": "汉王"}, {"role": "地点", "argument": "成皋"}]}]}
+{"text": "项羽已破走彭越，闻汉王复军成皋，乃复引兵西，拔荥阳，诛周苛、枞公，而虏韩王信，遂围成皋。", "event_list": [{"event_type": "战争/围攻事件", "trigger": "围", "arguments": [{"role": "包围者", "argument": "项羽"}, {"role": "被围者", "argument": "成皋"}]}]}
+{"text": "汉王跳，独与滕公共车出成皋玉门。", "event_list": [{"event_type": "战争/逃逸事件", "trigger": "出", "arguments": [{"role": "逃逸者", "argument": "汉王"}, {"role": "地点", "argument": "成皋"}]}]}
+{"text": "自称使者，晨驰入张耳、韩信壁，而夺之军。", "event_list": [{"event_type": "战争/劫持事件", "trigger": "夺", "arguments": [{"role": "劫持人", "argument": "汉王"}, {"role": "被劫持人", "argument": "军权"}]}]}
+{"text": "乃使张耳北益收兵赵地。", "event_list": [{"event_type": "政治/派遣事件", "trigger": "使", "arguments": [{"role": "派遣人", "argument": "汉王"}, {"role": "被派遣人", "argument": "张耳"}, {"role": "行为", "argument": "收兵赵地"}]}]}
+{"text": "使韩信东击齐。", "event_list": [{"event_type": "政治/派遣事件", "trigger": "使", "arguments": [{"role": "派遣人", "argument": "汉王"}, {"role": "被派遣人", "argument": "韩信"}, {"role": "行为", "argument": "击齐"}]}]}
+{"text": "韩信已破齐，使人言曰： 齐边楚，权轻，不为假王，恐不能安齐。", "event_list": [{"event_type": "政治/奏请事件", "trigger": "言", "arguments": [{"role": "凑请人", "argument": "韩信"}, {"role": "内容", "argument": "请封假王"}]}]}
+{"text": "留侯曰：不如因而立之，使自为守。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "留侯（张良）"}, {"role": "说话内容", "argument": "建议立韩信为王"}]}]}
+{"text": "乃遣张良操印绶立韩信为齐王。", "event_list": [{"event_type": "政治/分封事件", "trigger": "立", "arguments": [{"role": "受封者", "argument": "韩信"}, {"role": "受封内容", "argument": "齐王"}]}]}
+{"text": "汉王数项羽曰： 始与项羽俱受命怀王，曰先入定关中者王之，项羽负约，王我於蜀汉，罪一。秦项羽矫杀卿子冠军而自尊，罪二。项羽已救赵，当还报，而擅劫诸侯兵入关，罪三。怀王约入秦无暴掠，项羽烧秦宫室，掘始皇帝冢，私收其财物，罪四。又彊杀秦降王子婴，罪五。诈阬秦子弟新安二十万，王其将，罪六。项羽皆王诸将善地，而徙逐故主，令臣下争叛逆，罪七。项羽出逐义帝彭城，自都之，夺韩王地，并王梁楚，多自予，罪八。项羽使人阴弑义帝江南，罪九。夫为人臣而弑其主，杀已降，为政不平，主约不信，天下所不容，大逆无道，罪十也。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "数", "arguments": [{"role": "说话人", "argument": "汉王"}, {"role": "说话内容", "argument": "列举项羽十罪"}]}]}
+{"text": "项羽大怒，伏弩射中汉王。", "event_list": [{"event_type": "战争/刺杀事件", "trigger": "射", "arguments": [{"role": "刺杀者", "argument": "项羽军"}, {"role": "被害人", "argument": "汉王"}]}]}
+{"text": "项羽恐，乃与汉王约，中分天下。", "event_list": [{"event_type": "日常/许诺事件", "trigger": "约", "arguments": [{"role": "许诺人", "argument": "项羽"}, {"role": "事件", "argument": "中分天下"}]}]}
+{"text": "项王归汉王父母妻子。", "event_list": [{"event_type": "战争/释放事件", "trigger": "归", "arguments": [{"role": "人物", "argument": "项王"}, {"role": "行为", "argument": "归还人质"}]}]}
+{"text": "用留侯、陈平计，乃进兵追项羽。", "event_list": [{"event_type": "战争/追击事件", "trigger": "追", "arguments": [{"role": "追击者", "argument": "汉军"}, {"role": "被追击者", "argument": "项羽"}]}]}
+{"text": "至固陵，不会。楚击汉军，大破之。", "event_list": [{"event_type": "战争/战败事件", "trigger": "破", "arguments": [{"role": "胜利者", "argument": "楚军"}, {"role": "失败者", "argument": "汉军"}]}]}
+{"text": "随刘贾、齐梁诸侯皆大会垓下。", "event_list": [{"event_type": "战争/驻扎事件", "trigger": "会", "arguments": [{"role": "人物", "argument": "刘贾、诸侯"}, {"role": "地点", "argument": "垓下"}]}]}
+{"text": "立武王布为淮南王。", "event_list": [{"event_type": "政治/分封事件", "trigger": "立", "arguments": [{"role": "受封者", "argument": "武王布（黥布）"}, {"role": "受封内容", "argument": "淮南王"}]}]}
+{"text": "高祖与诸侯兵共击楚军，与项羽决胜垓下。", "event_list": [{"event_type": "战争/进攻事件", "trigger": "击", "arguments": [{"role": "进攻者", "argument": "高祖、诸侯"}, {"role": "被攻击者", "argument": "楚军"}]}]}
+{"text": "淮阴先合，不利，卻。", "event_list": [{"event_type": "战争/战败事件", "trigger": "不利", "arguments": [{"role": "失败者", "argument": "淮阴侯军"}]}]}
+{"text": "项羽卒闻汉军之楚歌，以为汉尽得楚地，项羽乃败而走，是以兵大败。", "event_list": [{"event_type": "战争/逃逸事件", "trigger": "走", "arguments": [{"role": "逃逸者", "argument": "项羽"}]}]}
+{"text": "使骑将灌婴追杀项羽东城。", "event_list": [{"event_type": "战争/追击事件", "trigger": "追杀", "arguments": [{"role": "追击者", "argument": "灌婴"}, {"role": "被追击者", "argument": "项羽"}]}]}
+{"text": "斩首八万，遂略定楚地。", "event_list": [{"event_type": "战争/战败事件", "trigger": "斩", "arguments": [{"role": "失败者", "argument": "楚军"}, {"role": "结果", "argument": "死八万"}]}]}
+{"text": "鲁为楚坚守不下。", "event_list": [{"event_type": "战争/防守事件", "trigger": "坚守", "arguments": [{"role": "人物", "argument": "鲁"}, {"role": "地点", "argument": "鲁地"}]}]}
+{"text": "遂以鲁公号葬项羽穀城。", "event_list": [{"event_type": "日常/埋葬事件", "trigger": "葬", "arguments": [{"role": "埋葬人", "argument": "汉军"}, {"role": "埋葬地点", "argument": "穀城"}]}]}
+{"text": "诸侯及将相相与共请尊汉王为皇帝。", "event_list": [{"event_type": "政治/奏请事件", "trigger": "请", "arguments": [{"role": "凑请人", "argument": "诸侯、将相"}, {"role": "内容", "argument": "尊汉王为皇帝"}]}]}
+{"text": "汉王三让。", "event_list": [{"event_type": "日常/推辞拒绝", "trigger": "让", "arguments": [{"role": "推辞人", "argument": "汉王"}, {"role": "被推辞人", "argument": "诸侯"}]}]}
+{"text": "甲午，乃即皇帝位氾水之阳。", "event_list": [{"event_type": "政治/登基事件", "trigger": "即皇帝位", "arguments": [{"role": "登基人", "argument": "汉王（刘邦）"}, {"role": "时间", "argument": "甲午"}, {"role": "地点", "argument": "氾水之阳"}]}]}
+{"text": "徙衡山王吴芮为长沙王。", "event_list": [{"event_type": "政治/迁官事件", "trigger": "徙", "arguments": [{"role": "人物", "argument": "吴芮"}, {"role": "原职位", "argument": "衡山王"}, {"role": "现职位", "argument": "长沙王"}]}]}
+{"text": "立子恢为梁王，子友为淮阳王。", "event_list": [{"event_type": "政治/分封事件", "trigger": "立", "arguments": [{"role": "受封者", "argument": "子恢"}, {"role": "受封内容", "argument": "梁王"}]}]}
+{"text": "高祖曰：列侯诸将无敢隐朕，皆言其情。吾所以有天下者何？项氏之所以失天下者何？", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "高祖"}, {"role": "说话内容", "argument": "询问得天下原因"}]}]}
+{"text": "高起、王陵对曰：陛下慢而侮人，项羽仁而爱人。然陛下使人攻城略地，所降下者因以予之，与天下同利也。项羽妒贤嫉能，有功者害之，贤者疑之，战胜而不予人功，得地而不予人利，此所以失天下也。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "对曰", "arguments": [{"role": "说话人", "argument": "高起、王陵"}, {"role": "说话内容", "argument": "分析得失"}]}]}
+{"text": "高祖曰：公知其一，未知其二。夫运筹策帷帐之中，决胜於千里之外，吾不如子房。镇国家，抚百姓，给餽饟，不绝粮道，吾不如萧何。连百万之军，战必胜，攻必取，吾不如韩信。此三者，皆人杰也，吾能用之，此吾所以取天下也。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "高祖"}, {"role": "说话内容", "argument": "总结用人策略"}]}]}
+{"text": "高祖欲长都雒阳，齐人刘敬说，乃留侯劝上入都关中，高祖是日驾，入都关中。", "event_list": [{"event_type": "民事/迁徙事件", "trigger": "入都", "arguments": [{"role": "参与人", "argument": "高祖"}, {"role": "出发地", "argument": "雒阳"}, {"role": "目的地", "argument": "关中"}]}]}
+{"text": "六月，大赦天下。", "event_list": [{"event_type": "政治/赦免事件", "trigger": "赦", "arguments": [{"role": "赦免对象", "argument": "天下罪人"}]}]}
+{"text": "十月，燕王臧荼反。", "event_list": [{"event_type": "政治/叛变事件", "trigger": "反", "arguments": [{"role": "人物", "argument": "臧荼"}]}]}
+{"text": "高祖自将击之，得燕王臧荼。", "event_list": [{"event_type": "战争/抓捕事件", "trigger": "得", "arguments": [{"role": "逮捕人", "argument": "高祖"}, {"role": "被逮捕人", "argument": "臧荼"}, {"role": "结果", "argument": "俘获"}]}]}
+{"text": "即立太尉卢绾为燕王。", "event_list": [{"event_type": "政治/分封事件", "trigger": "立", "arguments": [{"role": "受封者", "argument": "卢绾"}, {"role": "受封内容", "argument": "燕王"}]}]}
+{"text": "利几反。", "event_list": [{"event_type": "政治/叛变事件", "trigger": "反", "arguments": [{"role": "人物", "argument": "利几"}]}]}
+{"text": "高祖自将兵击之，利几走。", "event_list": [{"event_type": "战争/逃逸事件", "trigger": "走", "arguments": [{"role": "逃逸者", "argument": "利几"}]}]}
+{"text": "高祖五日一朝太公。", "event_list": [{"event_type": "日常/会见事件", "trigger": "朝", "arguments": [{"role": "会见人", "argument": "高祖"}, {"role": "被见人", "argument": "太公"}]}]}
+{"text": "太公家令说太公曰：天无二日，土无二王。今高祖虽子，人主也；太公虽父，人臣也。柰何令人主拜人臣！", "event_list": [{"event_type": "日常/交谈事件", "trigger": "说", "arguments": [{"role": "说话人", "argument": "家令"}, {"role": "听话人", "argument": "太公"}, {"role": "说话内容", "argument": "劝止受拜"}]}]}
+{"text": "後高祖朝，太公拥篲，迎门卻行。", "event_list": [{"event_type": "日常/会见事件", "trigger": "朝", "arguments": [{"role": "会见人", "argument": "高祖"}, {"role": "被见人", "argument": "太公"}]}]}
+{"text": "於是高祖乃尊太公为太上皇。", "event_list": [{"event_type": "政治/追封事件", "trigger": "尊", "arguments": [{"role": "追封人", "argument": "高祖"}, {"role": "被追封人", "argument": "太公"}, {"role": "追封内容", "argument": "太上皇"}]}]}
+{"text": "心善家令言，赐金五百斤。", "event_list": [{"event_type": "政治/赏赐事件", "trigger": "赐", "arguments": [{"role": "赏赐人", "argument": "高祖"}, {"role": "受赏人", "argument": "家令"}, {"role": "赏赐内容", "argument": "金五百斤"}]}]}
+{"text": "人有上变事告楚王信谋反。", "event_list": [{"event_type": "政治/诬陷事件", "trigger": "告", "arguments": [{"role": "诬陷人", "argument": "人（告密者）"}, {"role": "被诬陷人", "argument": "楚王信"}]}]}
+{"text": "用陈平计，乃伪游云梦，会诸侯於陈。", "event_list": [{"event_type": "日常/出行事件", "trigger": "游", "arguments": [{"role": "人物", "argument": "高祖"}, {"role": "目的地", "argument": "云梦"}]}]}
+{"text": "楚王信迎，即因执之。", "event_list": [{"event_type": "政治/抓捕事件", "trigger": "执", "arguments": [{"role": "逮捕人", "argument": "高祖"}, {"role": "被逮捕人", "argument": "楚王信"}]}]}
+{"text": "是日，大赦天下。", "event_list": [{"event_type": "政治/赦免事件", "trigger": "赦", "arguments": [{"role": "赦免对象", "argument": "天下"}]}]}
+{"text": "田肯贺，因说高祖曰：陛下得韩信，又治秦中。秦，形胜之国，带河山之险，县隔千里，持戟百万，秦得百二焉。地埶便利，其以下兵於诸侯，譬犹居高屋之上建瓴水也。夫齐，东有琅邪、即墨之饶，南有泰山之固，西有浊河之限，北有勃海之利。地方二千里，持戟百万，县隔千里之外，齐得十二焉。故此东西秦也。非亲子弟，莫可使王齐矣。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "说", "arguments": [{"role": "说话人", "argument": "田肯"}, {"role": "说话内容", "argument": "分析齐地形势"}]}]}
+{"text": "赐黄金五百斤。", "event_list": [{"event_type": "政治/赏赐事件", "trigger": "赐", "arguments": [{"role": "赏赐人", "argument": "高祖"}, {"role": "受赏人", "argument": "田肯"}, {"role": "赏赐内容", "argument": "黄金五百斤"}]}]}
+{"text": "封韩信为淮阴侯。", "event_list": [{"event_type": "政治/分封事件", "trigger": "封", "arguments": [{"role": "受封者", "argument": "韩信"}, {"role": "受封内容", "argument": "淮阴侯"}]}]}
+{"text": "高祖曰将军刘贾数有功，以为荆王。", "event_list": [{"event_type": "政治/分封事件", "trigger": "以为", "arguments": [{"role": "受封者", "argument": "刘贾"}, {"role": "受封内容", "argument": "荆王"}]}]}
+{"text": "徙韩王信太原。", "event_list": [{"event_type": "政治/迁官事件", "trigger": "徙", "arguments": [{"role": "人物", "argument": "韩王信"}, {"role": "地点", "argument": "太原"}]}]}
+{"text": "匈奴攻韩王信马邑。", "event_list": [{"event_type": "战争/进攻事件", "trigger": "攻", "arguments": [{"role": "进攻者", "argument": "匈奴"}, {"role": "被攻击者", "argument": "马邑"}]}]}
+{"text": "信因与谋反太原。", "event_list": [{"event_type": "政治/叛变事件", "trigger": "谋反", "arguments": [{"role": "人物", "argument": "韩王信"}]}]}
+{"text": "白土曼丘臣、王黄立故赵将赵利为王以反。", "event_list": [{"event_type": "政治/叛变事件", "trigger": "立", "arguments": [{"role": "人物", "argument": "曼丘臣、王黄"}]}]}
+{"text": "高祖自往击之。", "event_list": [{"event_type": "战争/出征事件", "trigger": "往击", "arguments": [{"role": "出征人", "argument": "高祖"}, {"role": "目的", "argument": "平叛"}]}]}
+{"text": "遂至平城。匈奴围我平城，七日而後罢去。", "event_list": [{"event_type": "战争/围攻事件", "trigger": "围", "arguments": [{"role": "包围者", "argument": "匈奴"}, {"role": "被围者", "argument": "平城"}]}]}
+{"text": "立兄刘仲为代王。", "event_list": [{"event_type": "政治/分封事件", "trigger": "立", "arguments": [{"role": "受封者", "argument": "刘仲"}, {"role": "受封内容", "argument": "代王"}]}]}
+{"text": "萧丞相营作未央宫。", "event_list": [{"event_type": "民事/修建事件", "trigger": "营作", "arguments": [{"role": "修建人", "argument": "萧何"}, {"role": "修建内容", "argument": "未央宫"}]}]}
+{"text": "萧何曰：天下方未定，故可因遂就宫室。且夫天子四海为家，非壮丽无以重威，且无令後世有以加也。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "萧何"}, {"role": "说话内容", "argument": "解释修宫原因"}]}]}
+{"text": "赵相贯高等谋弑高祖。", "event_list": [{"event_type": "战争/刺杀事件", "trigger": "谋弑", "arguments": [{"role": "刺杀者", "argument": "贯高等"}, {"role": "被害人", "argument": "高祖"}]}]}
+{"text": "代王刘仲弃国亡。", "event_list": [{"event_type": "战争/逃逸事件", "trigger": "亡", "arguments": [{"role": "逃逸者", "argument": "刘仲"}]}]}
+{"text": "废以为合阳侯。", "event_list": [{"event_type": "政治/罢免事件", "trigger": "废", "arguments": [{"role": "人物", "argument": "刘仲"}, {"role": "原职位", "argument": "代王"}, {"role": "结果", "argument": "为合阳侯"}]}]}
+{"text": "贯高等事发觉，夷三族。", "event_list": [{"event_type": "政治/判案事件", "trigger": "夷", "arguments": [{"role": "人物", "argument": "贯高等"}, {"role": "结果", "argument": "夷三族"}]}]}
+{"text": "废赵王敖为宣平侯。", "event_list": [{"event_type": "政治/罢免事件", "trigger": "废", "arguments": [{"role": "人物", "argument": "赵王敖"}, {"role": "原职位", "argument": "赵王"}, {"role": "结果", "argument": "为宣平侯"}]}]}
+{"text": "是岁，徙贵族楚昭、屈、景、怀、齐田氏关中。", "event_list": [{"event_type": "民事/迁徙事件", "trigger": "徙", "arguments": [{"role": "参与人", "argument": "贵族楚昭、屈、景、怀、齐田氏"}, {"role": "目的地", "argument": "关中"}]}]}
+{"text": "高祖大朝诸侯群臣。", "event_list": [{"event_type": "政治/朝会事件", "trigger": "朝", "arguments": [{"role": "人物", "argument": "高祖、诸侯群臣"}]}]}
+{"text": "高祖奉玉卮，起为太上皇寿。", "event_list": [{"event_type": "日常/其他事件", "trigger": "为寿", "arguments": [{"role": "人物", "argument": "高祖"}, {"role": "行为", "argument": "敬酒"}]}]}
+{"text": "曰：始大人常以臣无赖...今某之业所就孰与仲多？", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "高祖"}, {"role": "说话内容", "argument": "比较功业"}]}]}
+{"text": "殿上群臣皆呼万岁。", "event_list": [{"event_type": "民事/欢呼事件", "trigger": "呼", "arguments": [{"role": "欢呼内容", "argument": "万岁"}]}]}
+{"text": "七月，太上皇崩栎阳宫。", "event_list": [{"event_type": "人生/死亡", "trigger": "崩", "arguments": [{"role": "人物", "argument": "太上皇"}, {"role": "地点", "argument": "栎阳宫"}]}]}
+{"text": "赦栎阳囚。", "event_list": [{"event_type": "政治/赦免事件", "trigger": "赦", "arguments": [{"role": "赦免对象", "argument": "栎阳囚"}]}]}
+{"text": "更命郦邑曰新丰。", "event_list": [{"event_type": "日常/更名事件", "trigger": "更命", "arguments": [{"role": "原名称", "argument": "郦邑"}, {"role": "新名称", "argument": "新丰"}]}]}
+{"text": "赵相国陈豨反代地。", "event_list": [{"event_type": "政治/叛变事件", "trigger": "反", "arguments": [{"role": "人物", "argument": "陈豨"}]}]}
+{"text": "上曰：豨尝为吾使，甚有信。代地吾所急也，故封豨为列侯，以相国守代，今乃与王黄等劫掠代地！代地吏民非有罪也。其赦代吏民。", "event_list": [{"event_type": "政治/赦免事件", "trigger": "赦", "arguments": [{"role": "赦免对象", "argument": "代吏民"}]}]}
+{"text": "九月，上自东往击之。", "event_list": [{"event_type": "战争/出征事件", "trigger": "往击", "arguments": [{"role": "出征人", "argument": "上（高祖）"}, {"role": "时间", "argument": "九月"}]}]}
+{"text": "至邯郸，上喜曰：豨不南据邯郸而阻漳水，吾知其无能为也。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "高祖"}, {"role": "说话内容", "argument": "评陈豨战略"}]}]}
+{"text": "乃多以金啗豨将，豨将多降者。", "event_list": [{"event_type": "政治/贿赂事件", "trigger": "啗", "arguments": [{"role": "贿赂人", "argument": "高祖"}, {"role": "受贿人", "argument": "豨将"}, {"role": "诉求", "argument": "诱降"}]}]}
+{"text": "汉使将军郭蒙与齐将击，大破之。", "event_list": [{"event_type": "战争/战败事件", "trigger": "破", "arguments": [{"role": "胜利者", "argument": "汉军"}, {"role": "失败者", "argument": "叛军"}]}]}
+{"text": "春，淮阴侯韩信谋反关中，夷三族。", "event_list": [{"event_type": "政治/判案事件", "trigger": "夷", "arguments": [{"role": "人物", "argument": "韩信"}, {"role": "结果", "argument": "夷三族"}]}]}
+{"text": "夏，梁王彭越谋反，废迁蜀；复欲反，遂夷三族。", "event_list": [{"event_type": "政治/判案事件", "trigger": "夷", "arguments": [{"role": "人物", "argument": "彭越"}, {"role": "结果", "argument": "夷三族"}]}]}
+{"text": "立子恢为梁王，子友为淮阳王。", "event_list": [{"event_type": "政治/分封事件", "trigger": "立", "arguments": [{"role": "受封者", "argument": "子恢"}, {"role": "受封内容", "argument": "梁王"}]}]}
+{"text": "秋七月，淮南王黥布反。", "event_list": [{"event_type": "政治/叛变事件", "trigger": "反", "arguments": [{"role": "人物", "argument": "黥布"}]}]}
+{"text": "高祖自往击之。", "event_list": [{"event_type": "战争/出征事件", "trigger": "往击", "arguments": [{"role": "出征人", "argument": "高祖"}, {"role": "目的", "argument": "平叛"}]}]}
+{"text": "立子长为淮南王。", "event_list": [{"event_type": "政治/分封事件", "trigger": "立", "arguments": [{"role": "受封者", "argument": "子长"}, {"role": "受封内容", "argument": "淮南王"}]}]}
+{"text": "十二年，十月，高祖已击布军会甀。", "event_list": [{"event_type": "战争/进攻事件", "trigger": "击", "arguments": [{"role": "进攻者", "argument": "高祖"}, {"role": "被攻击者", "argument": "布军"}]}]}
+{"text": "高祖还归，过沛，留。", "event_list": [{"event_type": "日常/出行事件", "trigger": "过", "arguments": [{"role": "人物", "argument": "高祖"}, {"role": "地点", "argument": "沛"}]}]}
+{"text": "发沛中兒得百二十人，教之歌。", "event_list": [{"event_type": "文化/撰写事件", "trigger": "教", "arguments": [{"role": "撰写人", "argument": "高祖"}, {"role": "行为", "argument": "教歌"}]}]}
+{"text": "酒酣，高祖击筑，自为歌诗曰：大风起兮云飞扬...安得猛士兮守四方！", "event_list": [{"event_type": "文化/撰写事件", "trigger": "为", "arguments": [{"role": "撰写人", "argument": "高祖"}, {"role": "撰写书名", "argument": "大风歌"}]}]}
+{"text": "令兒皆和习之。", "event_list": [{"event_type": "日常/命令事件", "trigger": "令", "arguments": [{"role": "命令人", "argument": "高祖"}, {"role": "被命令人", "argument": "兒"}, {"role": "命令内容", "argument": "和习歌"}]}]}
+{"text": "谓沛父兄曰：游子悲故乡...其以沛为朕汤沐邑，复其民，世世无有所与。", "event_list": [{"event_type": "政治/诏谕事件", "trigger": "谓", "arguments": [{"role": "昭谕人", "argument": "高祖"}, {"role": "受听人", "argument": "沛父兄"}, {"role": "内容", "argument": "免沛赋役"}]}]}
+{"text": "沛父兄皆顿首曰：沛幸得复，丰未复，唯陛下哀怜之。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "沛父兄"}, {"role": "说话内容", "argument": "请求免丰赋役"}]}]}
+{"text": "高祖曰：丰吾所生长...吾特为其以雍齿故反我为魏。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "高祖"}, {"role": "说话内容", "argument": "解释丰未复原因"}]}]}
+{"text": "沛父兄固请，乃并复丰，比沛。", "event_list": [{"event_type": "政治/免税事件", "trigger": "复", "arguments": [{"role": "免税地点", "argument": "丰"}, {"role": "免税年限", "argument": "世世"}]}]}
+{"text": "於是拜沛侯刘濞为吴王。", "event_list": [{"event_type": "政治/分封事件", "trigger": "拜", "arguments": [{"role": "受封者", "argument": "刘濞"}, {"role": "受封内容", "argument": "吴王"}]}]}
+{"text": "汉将别击布军洮水南北，皆大破之，追得斩布鄱阳。", "event_list": [{"event_type": "战争/战败事件", "trigger": "破", "arguments": [{"role": "胜利者", "argument": "汉将"}, {"role": "失败者", "argument": "布军"}]}]}
+{"text": "十二月，高祖曰：秦始皇帝、楚隐王陈涉、魏安釐王、齐缗王、赵悼襄王皆绝无後，予守冢各十家，秦皇帝二十家，魏公子无忌五家。", "event_list": [{"event_type": "政治/赏赐事件", "trigger": "曰", "arguments": [{"role": "赏赐人", "argument": "高祖"}, {"role": "赏赐内容", "argument": "守冢"}]}]}
+{"text": "赦代地吏民为陈豨、赵利所劫掠者。", "event_list": [{"event_type": "政治/赦免事件", "trigger": "赦", "arguments": [{"role": "赦免对象", "argument": "代地吏民"}]}]}
+{"text": "陈豨降将言豨反时，燕王卢绾使人之豨所，与阴谋。", "event_list": [{"event_type": "政治/叛变事件", "trigger": "阴谋", "arguments": [{"role": "人物", "argument": "卢绾"}]}]}
+{"text": "上使辟阳侯迎绾，绾称病。", "event_list": [{"event_type": "政治/派遣事件", "trigger": "使", "arguments": [{"role": "派遣人", "argument": "上（高祖）"}, {"role": "被派遣人", "argument": "辟阳侯"}, {"role": "行为", "argument": "迎绾"}]}]}
+{"text": "二月，使樊哙、周勃将兵击燕王绾。", "event_list": [{"event_type": "战争/出征事件", "trigger": "使", "arguments": [{"role": "出征人", "argument": "樊哙、周勃"}, {"role": "目的", "argument": "击燕王绾"}]}]}
+{"text": "赦燕吏民与反者。", "event_list": [{"event_type": "政治/赦免事件", "trigger": "赦", "arguments": [{"role": "赦免对象", "argument": "燕吏民与反者"}]}]}
+{"text": "立皇子建为燕王。", "event_list": [{"event_type": "政治/分封事件", "trigger": "立", "arguments": [{"role": "受封者", "argument": "皇子建"}, {"role": "受封内容", "argument": "燕王"}]}]}
+{"text": "高祖击布时，为流矢所中。", "event_list": [{"event_type": "战争/受伤事件", "trigger": "中", "arguments": [{"role": "人物", "argument": "高祖"}, {"role": "原因", "argument": "流矢"}]}]}
+{"text": "医入见，高祖问医。", "event_list": [{"event_type": "日常/会见事件", "trigger": "见", "arguments": [{"role": "会见人", "argument": "高祖"}, {"role": "被见人", "argument": "医"}]}]}
+{"text": "医曰：病可治。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "医"}, {"role": "说话内容", "argument": "病可治"}]}]}
+{"text": "於是高祖嫚骂之曰：吾以布衣提三尺剑取天下，此非天命乎？命乃在天，虽扁鹊何益！", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "高祖"}, {"role": "说话内容", "argument": "拒医言论"}]}]}
+{"text": "吕后问：陛下百岁後，萧相国即死，令谁代之？", "event_list": [{"event_type": "日常/交谈事件", "trigger": "问", "arguments": [{"role": "说话人", "argument": "吕后"}, {"role": "说话内容", "argument": "问继任者"}]}]}
+{"text": "上曰：曹参可。", "event_list": [{"event_type": "日常/交谈事件", "trigger": "曰", "arguments": [{"role": "说话人", "argument": "高祖"}, {"role": "说话内容", "argument": "荐曹参"}]}]}
+{"text": "卢绾与数千骑居塞下候伺。", "event_list": [{"event_type": "战争/驻扎事件", "trigger": "居", "arguments": [{"role": "人物", "argument": "卢绾"}, {"role": "地点", "argument": "塞下"}]}]}
+{"text": "四月甲辰，高祖崩长乐宫。", "event_list": [{"event_type": "人生/死亡", "trigger": "崩", "arguments": [{"role": "人物", "argument": "高祖"}, {"role": "地点", "argument": "长乐宫"}, {"role": "时间", "argument": "四月甲辰"}]}]}
+{"text": "群臣皆曰：高祖起微细，拨乱世反之正，平定天下，为汉太祖，功最高。 上尊号为高皇帝。", "event_list": [{"event_type": "政治/追封事件", "trigger": "上尊号", "arguments": [{"role": "追封人", "argument": "群臣"}, {"role": "被追封人", "argument": "高祖"}, {"role": "追封内容", "argument": "高皇帝"}]}]}
+{"text": "太子袭号为皇帝。", "event_list": [{"event_type": "人生/继承", "trigger": "袭", "arguments": [{"role": "继承人", "argument": "太子"}, {"role": "继承内容", "argument": "皇帝位"}]}]}
+{"text": "令郡国诸侯各立高祖庙。", "event_list": [{"event_type": "民事/修建事件", "trigger": "立", "arguments": [{"role": "修建内容", "argument": "高祖庙"}]}]}
+{"text": "及孝惠五年，思高祖之悲乐沛，以沛宫为高祖原庙。", "event_list": [{"event_type": "日常/更名事件", "trigger": "为", "arguments": [{"role": "原名称", "argument": "沛宫"}, {"role": "新名称", "argument": "高祖原庙"}]}]}
