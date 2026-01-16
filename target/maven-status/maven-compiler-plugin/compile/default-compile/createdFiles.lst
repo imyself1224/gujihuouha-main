@@ -8,6 +8,7 @@ com\example\gujihuohua\mapper\AncientTextMapper.class
 com\example\gujihuohua\mapper\ClusteringHistoryRepository.class
 com\example\gujihuohua\entity\ClusteringHistory.class
 com\example\gujihuohua\service\PofService.class
+com\example\gujihuohua\controller\HisController.class
 com\example\gujihuohua\service\EriService.class
 com\example\gujihuohua\service\EventClusteringService.class
 com\example\gujihuohua\controller\NerController.class
