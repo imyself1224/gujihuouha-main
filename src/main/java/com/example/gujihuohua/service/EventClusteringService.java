@@ -4,7 +4,7 @@ import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 import com.example.gujihuohua.entity.ClusteringHistory;
-import com.example.gujihuohua.mapper.ClusteringHistoryRepository;
+import com.example.gujihuohua.repository.ClusteringHistoryRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.http.HttpEntity;

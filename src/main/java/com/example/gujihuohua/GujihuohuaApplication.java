@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableAsync;
 
 @SpringBootApplication
-@MapperScan("com.example.gujihuohua.mapper")
+@MapperScan(value = "com.example.gujihuohua.mapper", annotationClass = org.apache.ibatis.annotations.Mapper.class)
 @EnableAsync
 public class GujihuohuaApplication {
     public static void main(String[] args) {

@@ -25,6 +25,7 @@
           <EventAnalysis v-else-if="activeView === 'event-analysis'" />
           <HisAnalysis v-else-if="activeView === 'his-analysis'" />
           <XinhuaDict v-else-if="activeView === 'dict'" />
+          <GraphSearch v-else-if="activeView === 'graph'" />
         </keep-alive>
       </div>
     </div>
@@ -45,6 +46,7 @@ import PortraitAnalysis from './components/PofAnalysis.vue'
 import EventAnalysis from './components/EventAnalysis.vue'
 import HisAnalysis from './components/HisAnalysis.vue'
 import XinhuaDict from './components/XinhuaDict.vue'
+import GraphSearch from './components/GraphSearch.vue'
 
 const showWelcome = ref(true)
 const activeView = ref('process')

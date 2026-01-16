@@ -44,6 +44,9 @@
         <li :class="{ active: activeView === 'his-analysis' }" @click="$emit('change-view', 'his-analysis')">
           <el-icon class="menu-icon"><Histogram /></el-icon> 历史事件群像
         </li>
+        <li :class="{ active: activeView === 'graph' }" @click="$emit('change-view', 'graph')">
+          <el-icon class="menu-icon"><Share /></el-icon> 古籍故事表达
+        </li>
       </ul>
     </div>
 
@@ -61,7 +64,7 @@
 <script setup>
 /* eslint-disable no-undef */
 // 1. 在这里补充引入 'Reading' 图标
-import { EditPen, Collection, PriceTag, Connection, Timer, User, Reading, Management, Histogram } from '@element-plus/icons-vue'
+import { EditPen, Collection, PriceTag, Connection, Timer, User, Reading, Management, Histogram, Share } from '@element-plus/icons-vue'
 
 defineProps(['activeView'])
 defineEmits(['change-view'])
@@ -115,8 +118,9 @@ defineEmits(['change-view'])
 .logo-text .sub-title { font-size: 12px; color: #8a96a3; }
 
 .nav-menu { list-style: none; padding: 0; margin: 0; }
-.menu-section { margin-bottom: 10px; flex: 0 0 auto; }
-.scrollable-list { max-height: 45vh; overflow-y: auto; }
+.menu-section { margin-bottom: 30px; flex: 0 0 auto; }
+/* 自动适应高度，保留滚动条以防屏幕过小 */
+.scrollable-list { max-height: 55vh; overflow-y: auto; }
 .menu-group-title { padding: 15px 20px 5px; font-size: 12px; color: #5c6b7f; letter-spacing: 1px; }
 
 .nav-menu li {
