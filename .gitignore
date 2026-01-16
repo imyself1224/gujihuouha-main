@@ -1,0 +1,20 @@
+target/
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+*.iml
+
+# Node.js
+node_modules/
+package-lock.json
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
