@@ -1,7 +1,6 @@
 package com.example.gujihuohua.controller;
 
 import com.example.gujihuohua.entity.graph.GraphApiResponse;
-import com.example.gujihuohua.entity.graph.GraphNode;
 import com.example.gujihuohua.service.GraphService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;

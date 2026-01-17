@@ -12,6 +12,7 @@ import org.springframework.stereotype.Service;
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
+import java.util.Objects;
 
 @Service
 @RequiredArgsConstructor
@@ -23,12 +24,13 @@ public class GraphServiceImpl implements GraphService {
         if (node == null) return null;
         List<String> labels = StreamSupport.stream(node.labels().spliterator(), false)
                 .collect(Collectors.toList());
+        String nodeName = node.get("name").asString(null);
         return GraphNode.builder()
                 .id(String.valueOf(node.elementId())) // Neo4j 5+ uses elementId, older uses id()
-                .name(node.get("name").asString(null))
+                .name(nodeName)
                 .labels(labels)
                 .properties(node.asMap())
-                .is_center(centerName != null && centerName.equals(node.get("name").asString(null)))
+                .is_center(Objects.equals(centerName, nodeName))
                 .build();
     }
 
@@ -248,9 +250,11 @@ public class GraphServiceImpl implements GraphService {
         
         for (Path path : paths) {
             for (Node node : path.nodes()) {
-                String id = String.valueOf(node.elementId());
-                if (!nodeMap.containsKey(id)) {
-                    nodeMap.put(id, mapNode(node, center));
+                if (node != null) {
+                    String id = String.valueOf(node.elementId());
+                    if (!nodeMap.containsKey(id)) {
+                        nodeMap.put(id, mapNode(node, center));
+                    }
                 }
             }
             for (Relationship rel : path.relationships()) {
@@ -272,12 +276,16 @@ public class GraphServiceImpl implements GraphService {
                     // Actually rel.startNodeElementId() and we have map.
                     
                     // Let's assume map has them because path.nodes() includes all nodes in path.
-                    edgeList.add(GraphEdge.builder()
-                            .source(getNameFromMap(nodeMap, rel.startNodeElementId()))
-                            .target(getNameFromMap(nodeMap, rel.endNodeElementId()))
-                            .relation_type(rel.type())
-                            .properties(rel.asMap())
-                            .build());
+                    String source = getNameFromMap(nodeMap, rel.startNodeElementId());
+                    String target = getNameFromMap(nodeMap, rel.endNodeElementId());
+                    if (source != null && target != null) {
+                        edgeList.add(GraphEdge.builder()
+                                .source(source)
+                                .target(target)
+                                .relation_type(rel.type())
+                                .properties(rel.asMap())
+                                .build());
+                    }
                     processedEdges.add(id);
                 }
             }
@@ -326,12 +334,16 @@ public class GraphServiceImpl implements GraphService {
             Map<String, String> idToName = nodes.stream().collect(Collectors.toMap(GraphNode::getId, GraphNode::getName));
             
             for (Relationship r : path.relationships()) {
-                 edges.add(GraphEdge.builder()
-                        .source(idToName.get(r.startNodeElementId()))
-                        .target(idToName.get(r.endNodeElementId()))
-                        .relation_type(r.type())
-                        .properties(r.asMap())
-                        .build());
+                String edgeSource = idToName.get(r.startNodeElementId());
+                String edgeTarget = idToName.get(r.endNodeElementId());
+                if (edgeSource != null && edgeTarget != null) {
+                    edges.add(GraphEdge.builder()
+                            .source(edgeSource)
+                            .target(edgeTarget)
+                            .relation_type(r.type())
+                            .properties(r.asMap())
+                            .build());
+                }
             }
             
             Map<String, Object> data = new HashMap<>();
@@ -353,23 +365,9 @@ public class GraphServiceImpl implements GraphService {
         
         if (results.isEmpty()) return null;
         
-        List<Map<String, String>> relations = new ArrayList<>();
         Node center = (Node) results.iterator().next().get("n");
         List<String> labels = StreamSupport.stream(center.labels().spliterator(), false).collect(Collectors.toList());
 
-        for (Map<String, Object> row : results) {
-            Relationship r = (Relationship) row.get("r");
-            Node m = (Node) row.get("m");
-            if (r != null && m != null) {
-                // Return simple relation object: {target: "Name", relation_type: "Type", target_labels: []}
-                List<String> mLabels = StreamSupport.stream(m.labels().spliterator(), false).collect(Collectors.toList());
-                Map<String, String> relMap = new HashMap<>();
-                relMap.put("target", m.get("name").asString());
-                relMap.put("relation_type", r.type());
-                // target_labels in map? Map<String, Object> actually.
-                // But the interface for this API specific part returns List<Map>
-            }
-        }
         // Actually, let's just construct the 'data' map directly.
         // relationships: [{target:..., relation_type:..., target_labels: [...]}]
         
@@ -435,13 +433,15 @@ public class GraphServiceImpl implements GraphService {
                 nodeMap.put(String.valueOf(m.elementId()), mapNode(m, null));
             }
             if (r != null && !processedEdges.contains(String.valueOf(r.elementId()))) {
-                 edgeList.add(GraphEdge.builder()
-                        .source(n.get("name").asString())
-                        .target(m.get("name").asString())
-                        .relation_type(r.type())
-                        .properties(r.asMap())
-                        .build());
-                 processedEdges.add(String.valueOf(r.elementId()));
+                if (n != null && m != null) {
+                    edgeList.add(GraphEdge.builder()
+                            .source(n.get("name").asString())
+                            .target(m.get("name").asString())
+                            .relation_type(r.type())
+                            .properties(r.asMap())
+                            .build());
+                    processedEdges.add(String.valueOf(r.elementId()));
+                }
             }
         }
         
@@ -467,26 +467,32 @@ public class GraphServiceImpl implements GraphService {
         
         for (Map<String, Object> row : results) {
             Node n = (Node) row.get("n");
-            if (n != null && !nodeMap.containsKey(n.elementId())) {
-                nodeMap.put(n.elementId(), mapNode(n, null));
-            }
-            
-            Object rObj = row.get("r");
-            if (rObj instanceof Relationship) {
-                Relationship r = (Relationship) rObj;
-                Node m = (Node) row.get("m");
-                
-                if (m != null && !nodeMap.containsKey(m.elementId())) {
-                    nodeMap.put(m.elementId(), mapNode(m, null));
+            if (n != null) {
+                String nId = n.elementId();
+                if (!nodeMap.containsKey(nId)) {
+                    nodeMap.put(nId, mapNode(n, null));
                 }
                 
-                if (!processedEdgeIds.contains(r.elementId())) {
-                    // Start/End check
-                    Node startNode = r.startNodeElementId().equals(n.elementId()) ? n : m;
-                    Node endNode = r.endNodeElementId().equals(n.elementId()) ? n : m;
+                Object rObj = row.get("r");
+                if (rObj instanceof Relationship) {
+                    Relationship r = (Relationship) rObj;
+                    Node m = (Node) row.get("m");
                     
-                    edges.add(mapEdge(r, startNode, endNode));
-                    processedEdgeIds.add(r.elementId());
+                    if (m != null) {
+                        String mId = m.elementId();
+                        if (!nodeMap.containsKey(mId)) {
+                            nodeMap.put(mId, mapNode(m, null));
+                        }
+                        
+                        if (!processedEdgeIds.contains(r.elementId())) {
+                            // Start/End check
+                            Node startNode = r.startNodeElementId().equals(nId) ? n : m;
+                            Node endNode = r.endNodeElementId().equals(nId) ? n : m;
+                            
+                            edges.add(mapEdge(r, startNode, endNode));
+                            processedEdgeIds.add(r.elementId());
+                        }
+                    }
                 }
             }
         }
@@ -506,6 +512,7 @@ public class GraphServiceImpl implements GraphService {
         Map<String, Long> nodesByLabel = new HashMap<>();
         for (Map<String, Object> row : nodeStats) {
              // labels(n) returns a List
+             @SuppressWarnings("unchecked")
              List<String> lbls = (List<String>) row.get("l");
              Long count = (Long) row.get("c");
              for (String l : lbls) {

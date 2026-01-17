@@ -1,8 +1,6 @@
 package com.example.gujihuohua.service;
 
 import java.util.Map;
-import java.util.List;
-import com.example.gujihuohua.entity.graph.GraphNode;
 
 public interface GraphService {
     Map<String, Object> checkHealth();

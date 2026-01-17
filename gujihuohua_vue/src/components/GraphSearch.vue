@@ -807,6 +807,7 @@ onMounted(() => {
   z-index: 2000;
   display: flex;
   flex-direction: column;
+    max-height: 35%;
 }
 .info-header { display: flex; justify-content: space-between; margin-bottom: 10px; font-size: 16px; }
 .props-scroller { overflow-y: auto; flex: 1; margin-bottom: 10px; }
